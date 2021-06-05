@@ -20,3 +20,7 @@
 ## Packages, 3rd party modules:
 
 - https://deno.land/x
+
+## Reload cache for troubleshooting:
+
+- deno run --reload --allow-net --allow-write main.ts
