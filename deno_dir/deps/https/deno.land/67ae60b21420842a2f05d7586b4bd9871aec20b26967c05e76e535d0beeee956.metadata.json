@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "x-deno-warning": "Implicitly using latest version (0.97.0) for https://deno.land/std/encoding/csv.ts",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "location": "/std@0.97.0/encoding/csv.ts",
+    "vary": "Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 08:54:45 GMT",
+    "content-length": "0",
+    "cf-request-id": "0a7cface77000022ccd53c4000000001",
+    "cf-ray": "65a82d90bfed22cc-NRT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/std/encoding/csv.ts"
+}
