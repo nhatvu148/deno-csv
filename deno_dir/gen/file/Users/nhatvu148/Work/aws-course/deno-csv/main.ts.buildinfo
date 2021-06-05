@@ -272,7 +272,7 @@
         "affectsGlobalScope": true
       },
       "file:///Users/nhatvu148/Work/aws-course/deno-csv/main.ts": {
-        "version": "a4ffc722cd8b053f43f23ec5ed71cb83f88b286685e9cb78943c444181b66931",
+        "version": "8f85c2ae4684caa42b5bab4b233bf1b95ba0444c56bbf7ffca4dadab3d434ceb",
         "signature": "8e89b6cdfde461b78be39fef87900a0bd2454fca8969e0d1bc238617185f0a60",
         "affectsGlobalScope": true
       }
