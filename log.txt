@@ -225,3 +225,117 @@
 06-05-2021 23:09:33.450 INFO {"flightNumber":109,"mission":"Starlink-15 (v1.0)","rocket":"Falcon 9","customers":["SpaceX"]}
 06-05-2021 23:09:33.450 INFO {"flightNumber":110,"mission":"CRS-21","rocket":"Falcon 9","customers":["NASA (CRS)"]}
 06-05-2021 23:09:33.450 INFO {"flightNumber":110,"mission":"SXM-7","rocket":"Falcon 9","customers":["SiriusXM"]}
+06-05-2021 23:14:35.254 INFO Downloading launch data...
+06-05-2021 23:14:35.254 INFO {"flightNumber":1,"mission":"FalconSat","rocket":"Falcon 1","customers":["DARPA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":2,"mission":"DemoSat","rocket":"Falcon 1","customers":["DARPA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":3,"mission":"Trailblazer","rocket":"Falcon 1","customers":["NASA","ORS"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":4,"mission":"RatSat","rocket":"Falcon 1","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":5,"mission":"RazakSat","rocket":"Falcon 1","customers":["ATSB"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":6,"mission":"Falcon 9 Test Flight","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":7,"mission":"COTS 1","rocket":"Falcon 9","customers":["NASA(COTS)","NRO"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":8,"mission":"COTS 2","rocket":"Falcon 9","customers":["NASA(COTS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":9,"mission":"CRS-1","rocket":"Falcon 9","customers":["NASA (CRS)","Orbcomm"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":10,"mission":"CRS-2","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":11,"mission":"CASSIOPE","rocket":"Falcon 9","customers":["MDA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":12,"mission":"SES-8","rocket":"Falcon 9","customers":["SES"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":13,"mission":"Thaicom 6","rocket":"Falcon 9","customers":["Thaicom"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":14,"mission":"CRS-3","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":15,"mission":"OG-2 Mission 1","rocket":"Falcon 9","customers":["Orbcomm"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":16,"mission":"AsiaSat 8","rocket":"Falcon 9","customers":["AsiaSat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":17,"mission":"AsiaSat 6","rocket":"Falcon 9","customers":["AsiaSat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":18,"mission":"CRS-4","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":19,"mission":"CRS-5","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":20,"mission":"DSCOVR","rocket":"Falcon 9","customers":["NASA","NOAA","USAF"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":21,"mission":"ABS-3A / Eutelsat 115W B","rocket":"Falcon 9","customers":["ABS","Eutelsat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":22,"mission":"CRS-6","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":23,"mission":"TürkmenÄlem 52°E / MonacoSAT","rocket":"Falcon 9","customers":["Turkmenistan National Space Agency"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":24,"mission":"CRS-7","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":25,"mission":"OG-2 Mission 2","rocket":"Falcon 9","customers":["Orbcomm"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":26,"mission":"Jason 3","rocket":"Falcon 9","customers":["NASA","NOAA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":27,"mission":"SES-9","rocket":"Falcon 9","customers":["SES"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":28,"mission":"CRS-8","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":29,"mission":"JCSAT-2B","rocket":"Falcon 9","customers":["SKY Perfect JSAT Group"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":30,"mission":"Thaicom 8","rocket":"Falcon 9","customers":["Thaicom"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":31,"mission":"ABS-2A / Eutelsat 117W B","rocket":"Falcon 9","customers":["ABS","Eutelsat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":32,"mission":"CRS-9","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":33,"mission":"JCSAT-16","rocket":"Falcon 9","customers":["SKY Perfect JCSAT Group"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":34,"mission":"Amos-6","rocket":"Falcon 9","customers":["Spacecom"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":35,"mission":"Iridium NEXT Mission 1","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":36,"mission":"CRS-10","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":37,"mission":"EchoStar 23","rocket":"Falcon 9","customers":["EchoStar"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":38,"mission":"SES-10","rocket":"Falcon 9","customers":["SES"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":39,"mission":"NROL-76","rocket":"Falcon 9","customers":["NRO"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":40,"mission":"Inmarsat-5 F4","rocket":"Falcon 9","customers":["Inmarsat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":41,"mission":"CRS-11","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":42,"mission":"BulgariaSat-1","rocket":"Falcon 9","customers":["Bulgaria Sat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":43,"mission":"Iridium NEXT Mission 2","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":44,"mission":"Intelsat 35e","rocket":"Falcon 9","customers":["Intelsat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":45,"mission":"CRS-12","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":46,"mission":"FormoSat-5","rocket":"Falcon 9","customers":["NSPO (Taiwan)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":47,"mission":"Boeing X-37B OTV-5","rocket":"Falcon 9","customers":["USAF"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":48,"mission":"Iridium NEXT Mission 3","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":49,"mission":"SES-11 / Echostar 105","rocket":"Falcon 9","customers":["SES","Echostar"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":50,"mission":"KoreaSat 5A","rocket":"Falcon 9","customers":["KT Corporation"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":51,"mission":"CRS-13","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":52,"mission":"Iridium NEXT Mission 4","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":53,"mission":"ZUMA","rocket":"Falcon 9","customers":["Northrop Grumman"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":54,"mission":"SES-16 / GovSat-1","rocket":"Falcon 9","customers":["GovSat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":55,"mission":"Falcon Heavy Test Flight","rocket":"Falcon Heavy","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":56,"mission":"Paz / Starlink Demo","rocket":"Falcon 9","customers":["HisdeSAT","SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":57,"mission":"Hispasat 30W-6","rocket":"Falcon 9","customers":["Hispasat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":58,"mission":"Iridium NEXT Mission 5","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":59,"mission":"CRS-14","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":60,"mission":"TESS","rocket":"Falcon 9","customers":["NASA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":61,"mission":"Bangabandhu-1","rocket":"Falcon 9","customers":["Bangladesh Gov"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":62,"mission":"Iridium NEXT Mission 6","rocket":"Falcon 9","customers":["Iridium Communications","NASA","DLR"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":63,"mission":"SES-12","rocket":"Falcon 9","customers":["SES"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":64,"mission":"CRS-15","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":65,"mission":"Telstar 19V","rocket":"Falcon 9","customers":["Telesat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":66,"mission":"Iridium NEXT Mission 7","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":67,"mission":"Merah Putih","rocket":"Falcon 9","customers":["Telkom"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":68,"mission":"Telstar 18V","rocket":"Falcon 9","customers":["Telesat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":69,"mission":"SAOCOM 1A","rocket":"Falcon 9","customers":["CONAE"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":70,"mission":"Es’hail 2","rocket":"Falcon 9","customers":["Es’hailSat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":71,"mission":"SSO-A","rocket":"Falcon 9","customers":["Spaceflight Industries, Inc"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":72,"mission":"CRS-16","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":73,"mission":"GPS III SV01","rocket":"Falcon 9","customers":["USAF"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":74,"mission":"Iridium NEXT Mission 8","rocket":"Falcon 9","customers":["Iridium Communications"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":75,"mission":"Nusantara Satu (PSN-6) / S5 / Beresheet","rocket":"Falcon 9","customers":["Pasifik Satelit Nusantara","Air Force Research Laboratory","SpaceIL"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":76,"mission":"CCtCap Demo Mission 1","rocket":"Falcon 9","customers":["NASA (CCtCap)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":77,"mission":"ArabSat 6A","rocket":"Falcon Heavy","customers":["Arabsat"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":78,"mission":"CRS-17","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":79,"mission":"Starlink v0.9","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":80,"mission":"RADARSAT Constellation","rocket":"Falcon 9","customers":["CSA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":81,"mission":"STP-2","rocket":"Falcon Heavy","customers":["USAF","NOAA","NASA","Taiwan","NASA","Michigan Tech","General Atomics","Naval Postgrad School","Georgia Tech","Planetary Society","University of Texas","USAF Academy","SRI International","US Naval Academy","US Naval Academy","Naval Research Lab","Cal Poly","Merrit Island HS"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":82,"mission":"CRS-18","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":83,"mission":"Amos-17","rocket":"Falcon 9","customers":["Spacecom"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":84,"mission":"Starlink 1","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":85,"mission":"CRS-19","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":86,"mission":"JCSat 18 / Kacific 1","rocket":"Falcon 9","customers":["SKY Perfect JSAT Corporation","Kacific Broadband Satellites Pte Ltd"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":87,"mission":"Starlink 2","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":88,"mission":"Crew Dragon In Flight Abort Test","rocket":"Falcon 9","customers":["NASA (CCtCap)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":89,"mission":"Starlink 3","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":90,"mission":"Starlink 4","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":91,"mission":"CRS-20","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":92,"mission":"Starlink 5","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":93,"mission":"Starlink 6","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":94,"mission":"CCtCap Demo Mission 2","rocket":"Falcon 9","customers":["NASA (CCtCap)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":95,"mission":"Starlink 7","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":96,"mission":"Starlink-8 & SkySat 16-18","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":97,"mission":"GPS III SV03 (Columbus)","rocket":"Falcon 9","customers":["USAF"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":98,"mission":"ANASIS-II","rocket":"Falcon 9","customers":["South Korea"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":99,"mission":"Starlink-9 (v1.0) & BlackSky Global 5-6","rocket":"Falcon 9","customers":["SpaceX","BlackSky Global"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":100,"mission":"Starlink-10 (v1.0) & SkySat 19-21","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":101,"mission":"SAOCOM 1B, GNOMES-1, Tyvak-0172","rocket":"Falcon 9","customers":["CONAE"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":102,"mission":"Starlink-11 (v1.0)","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":103,"mission":"Starlink-12 (v1.0)","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":104,"mission":"Starlink-13 (v1.0)","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":105,"mission":"Starlink-14 (v1.0)","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":106,"mission":"GPS III SV04 (Sacagawea)","rocket":"Falcon 9","customers":["United States Space Force"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":107,"mission":"Crew-1","rocket":"Falcon 9","customers":["NASA (CCtCap)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":108,"mission":"Sentinel-6 Michael Freilich","rocket":"Falcon 9","customers":["NASA"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":109,"mission":"Starlink-15 (v1.0)","rocket":"Falcon 9","customers":["SpaceX"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":110,"mission":"CRS-21","rocket":"Falcon 9","customers":["NASA (CRS)"]}
+06-05-2021 23:14:35.254 INFO {"flightNumber":110,"mission":"SXM-7","rocket":"Falcon 9","customers":["SiriusXM"]}
+06-05-2021 23:14:35.254 INFO {"url":"file:///Users/nhatvu148/Work/aws-course/deno-csv/main.ts","main":true}
+06-05-2021 23:14:35.254 INFO Downloaded data for 110 SpaceX launches.

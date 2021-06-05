@@ -52,7 +52,7 @@ await log.setup({
   },
 });
 
-const downloadLaunchData = async () => {
+export const downloadLaunchData = async () => {
   log.info("Downloading launch data...");
   const response = await fetch("https://api.spacexdata.com/v3/launches", {
     method: "GET",
@@ -97,4 +97,8 @@ const downloadLaunchData = async () => {
   console.log(body);
 };
 
-await downloadLaunchData();
+if (import.meta.main) {
+  await downloadLaunchData();
+  log.info(import.meta);
+  log.info(`Downloaded data for ${launches.size} SpaceX launches.`);
+}
