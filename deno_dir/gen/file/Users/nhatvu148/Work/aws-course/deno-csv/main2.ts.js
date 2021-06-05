@@ -1,0 +1,3 @@
+import { fetchGitHubDescription } from "./main.ts";
+console.log(await fetchGitHubDescription("microsoft"));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbjIuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJtYWluMi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsc0JBQXNCLEVBQUUsTUFBTSxXQUFXLENBQUM7QUFFbkQsT0FBTyxDQUFDLEdBQUcsQ0FBQyxNQUFNLHNCQUFzQixDQUFDLFdBQVcsQ0FBQyxDQUFDLENBQUMifQ==

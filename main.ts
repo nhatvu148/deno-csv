@@ -102,3 +102,15 @@ if (import.meta.main) {
   log.info(import.meta);
   log.info(`Downloaded data for ${launches.size} SpaceX launches.`);
 }
+
+export async function fetchGitHubDescription(name: string) {
+  const response = await fetch("https://api.github.com/orgs/" + name);
+  const body = await response.json();
+  return body.description;
+}
+
+console.log("GitHub Fetcher 1.0");
+if (import.meta.main) {
+  console.log("Welcome to GitHub Fetcher");
+  console.log(await fetchGitHubDescription("google"));
+}

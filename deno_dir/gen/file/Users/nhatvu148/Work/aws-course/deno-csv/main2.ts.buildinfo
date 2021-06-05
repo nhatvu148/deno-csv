@@ -271,19 +271,9 @@
         "signature": "1",
         "affectsGlobalScope": true
       },
-      "https://deno.land/std@0.97.0/datetime/tokenizer.ts": {
-        "version": "8a19bcfd54def5e81a9b45700f21b57ea9bec97612030736fbbfbe790634d16d",
-        "signature": "5bce772a1e6ec63af79275fd768be9bbcfb8f7e32f09c149eb6cb3cc7cc410ca",
-        "affectsGlobalScope": false
-      },
       "https://deno.land/std@0.97.0/log/levels.ts": {
         "version": "e0c3aa86c7d0a7dcc140c4182eb09c84ce84df15850304c8b8d602cc5fdf22b2",
         "signature": "ff821dfc252f7e36b5686679bbc5a78f3667ac1eb4bed445872e051af5357e5e",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std@0.97.0/datetime/formatter.ts": {
-        "version": "fdf57a33a10789e23c51a98365b3b02ace73139205850cf3856ab60f251654c4",
-        "signature": "46050ae7117054a1c2290af5f458644f0c0d729b323aa53f8aa79066d07f7092",
         "affectsGlobalScope": false
       },
       "https://deno.land/std@0.97.0/fmt/colors.ts": {
@@ -354,6 +344,16 @@
       "https://deno.land/std@0.97.0/log/mod.ts": {
         "version": "f07b3b0463ae156fddd59cfd32eb341eca1c51f648ff31db4db459774e802563",
         "signature": "362cf0cebe93cd2a3be799b8a60ad8a8fbbb321e00b85f1cb811c6a37cbcca66",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.97.0/datetime/tokenizer.ts": {
+        "version": "8a19bcfd54def5e81a9b45700f21b57ea9bec97612030736fbbfbe790634d16d",
+        "signature": "5bce772a1e6ec63af79275fd768be9bbcfb8f7e32f09c149eb6cb3cc7cc410ca",
+        "affectsGlobalScope": false
+      },
+      "https://deno.land/std@0.97.0/datetime/formatter.ts": {
+        "version": "fdf57a33a10789e23c51a98365b3b02ace73139205850cf3856ab60f251654c4",
+        "signature": "46050ae7117054a1c2290af5f458644f0c0d729b323aa53f8aa79066d07f7092",
         "affectsGlobalScope": false
       },
       "https://deno.land/std@0.97.0/datetime/mod.ts": {
@@ -3555,6 +3555,11 @@
         "version": "081c0c10f76b856a556dfaa04e8c7eb7edcd8c3ab8d013e9ea7b491048b89347",
         "signature": "2185dfa53ded3e84b5c3ca91a83f9b7443d8721d9077d7975b0454bb361ea2a5",
         "affectsGlobalScope": false
+      },
+      "file:///Users/nhatvu148/Work/aws-course/deno-csv/main2.ts": {
+        "version": "75f1b8c2444b26fd6c68d57331c551dea3348df9f16d19cb3d7ed3994f24a6c7",
+        "signature": "28efb845bfd5cc0d4d767d8612db07160a2b535466b549b77058e5b3d94960e8",
+        "affectsGlobalScope": false
       }
     },
     "options": {
@@ -3584,6 +3589,9 @@
         "https://deno.land/std@0.97.0/datetime/mod.ts",
         "https://deno.land/std@0.97.0/log/mod.ts",
         "https://deno.land/x/lodash@4.17.15-es/lodash.js"
+      ],
+      "file:///Users/nhatvu148/Work/aws-course/deno-csv/main2.ts": [
+        "file:///Users/nhatvu148/Work/aws-course/deno-csv/main.ts"
       ],
       "https://deno.land/std@0.97.0/datetime/formatter.ts": [
         "https://deno.land/std@0.97.0/datetime/tokenizer.ts"
