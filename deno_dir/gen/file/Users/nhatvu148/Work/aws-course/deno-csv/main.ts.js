@@ -1,8 +1,10 @@
 "use strict";
-const files = [];
-while (true) {
-    const file = await Deno.open("main.ts");
-    const fileCount = files.push(file);
-    console.log(`Pushing... file #${fileCount}`);
-}
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiZmlsZTovLy9Vc2Vycy9uaGF0dnUxNDgvV29yay9hd3MtY291cnNlL2Rlbm8tY3N2L21haW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUlBLE1BQU0sS0FBSyxHQUFHLEVBQUUsQ0FBQztBQUVqQixPQUFPLElBQUksRUFBRTtJQUNYLE1BQU0sSUFBSSxHQUFHLE1BQU0sSUFBSSxDQUFDLElBQUksQ0FBQyxTQUFTLENBQUMsQ0FBQztJQUN4QyxNQUFNLFNBQVMsR0FBRyxLQUFLLENBQUMsSUFBSSxDQUFDLElBQUksQ0FBQyxDQUFDO0lBRW5DLE9BQU8sQ0FBQyxHQUFHLENBQUMsb0JBQW9CLFNBQVMsRUFBRSxDQUFDLENBQUM7Q0FDOUMifQ==
+const downloadLaunchData = async () => {
+    const response = await fetch("https://api.spacexdata.com/v3/launches", {
+        method: "GET",
+    });
+    const launchData = await response.json();
+    console.log(launchData);
+};
+await downloadLaunchData();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiZmlsZTovLy9Vc2Vycy9uaGF0dnUxNDgvV29yay9hd3MtY291cnNlL2Rlbm8tY3N2L21haW4udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQWFBLE1BQU0sa0JBQWtCLEdBQUcsS0FBSyxJQUFJLEVBQUU7SUFDcEMsTUFBTSxRQUFRLEdBQUcsTUFBTSxLQUFLLENBQUMsd0NBQXdDLEVBQUU7UUFDckUsTUFBTSxFQUFFLEtBQUs7S0FDZCxDQUFDLENBQUM7SUFFSCxNQUFNLFVBQVUsR0FBRyxNQUFNLFFBQVEsQ0FBQyxJQUFJLEVBQUUsQ0FBQztJQUN6QyxPQUFPLENBQUMsR0FBRyxDQUFDLFVBQVUsQ0FBQyxDQUFDO0FBQzFCLENBQUMsQ0FBQztBQUVGLE1BQU0sa0JBQWtCLEVBQUUsQ0FBQyJ9
