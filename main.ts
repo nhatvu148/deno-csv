@@ -14,6 +14,13 @@
 import * as log from "https://deno.land/std/log/mod.ts";
 import { format } from "https://deno.land/std/datetime/mod.ts";
 
+interface Launch {
+  flightNumber: number;
+  mission: string;
+}
+
+const launches = new Map<number, Launch>();
+
 await log.setup({
   handlers: {
     console: new log.handlers.ConsoleHandler("DEBUG"),
@@ -54,7 +61,16 @@ const downloadLaunchData = async () => {
   }
 
   const launchData = await response.json();
-  console.log(launchData);
+  for (const launch of launchData) {
+    const flightData = {
+      flightNumber: launch["flight_number"],
+      mission: launch["mission_name"],
+    };
+
+    launches.set(flightData.flightNumber, flightData);
+
+    log.info(JSON.stringify(flightData));
+  }
 
   const response2 = await fetch("https://reqres.in/api/users", {
     method: "POST",

@@ -271,9 +271,9 @@
         "signature": "1",
         "affectsGlobalScope": true
       },
-      "https://deno.land/std@0.97.0/fs/exists.ts": {
-        "version": "133a5398b617954e3d98916987831d7038d056208b502279daa6f67cc5f0019a",
-        "signature": "476ff09bc8025af4abbbb27e6159a395980c6073b7a0b674ad7a13b383d02d60",
+      "https://deno.land/std@0.97.0/bytes/mod.ts": {
+        "version": "90156997f2c4813d15e41b30f5aab2a94eb50f4e2d0196f3592f732d4097c30c",
+        "signature": "a04e6dd0409430cf1963afe493ab99de175478465d97cce01e7d2f0ca97b19e9",
         "affectsGlobalScope": false
       },
       "https://deno.land/std@0.97.0/log/levels.ts": {
@@ -281,19 +281,14 @@
         "signature": "ff821dfc252f7e36b5686679bbc5a78f3667ac1eb4bed445872e051af5357e5e",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std@0.97.0/log/logger.ts": {
-        "version": "4da2cd32b5644af117ce49589e0adaab0dd9f93ef3fe3f07558b938dbd40879b",
-        "signature": "8b6bc892eaf097423cafd67a6c804418c4adfece13529117468ea7061089df67",
+      "https://deno.land/std@0.97.0/datetime/tokenizer.ts": {
+        "version": "8a19bcfd54def5e81a9b45700f21b57ea9bec97612030736fbbfbe790634d16d",
+        "signature": "5bce772a1e6ec63af79275fd768be9bbcfb8f7e32f09c149eb6cb3cc7cc410ca",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std@0.97.0/fmt/colors.ts": {
-        "version": "b338be483e6def4af744c0a7a1cc9a236ec4ed83fda629e0c85b8be65c425599",
-        "signature": "830facb8547771995a3fd3b86dfbaf689f31625bfb20d10f3dcc26e671698070",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std@0.97.0/bytes/mod.ts": {
-        "version": "90156997f2c4813d15e41b30f5aab2a94eb50f4e2d0196f3592f732d4097c30c",
-        "signature": "a04e6dd0409430cf1963afe493ab99de175478465d97cce01e7d2f0ca97b19e9",
+      "https://deno.land/std@0.97.0/datetime/formatter.ts": {
+        "version": "fdf57a33a10789e23c51a98365b3b02ace73139205850cf3856ab60f251654c4",
+        "signature": "46050ae7117054a1c2290af5f458644f0c0d729b323aa53f8aa79066d07f7092",
         "affectsGlobalScope": false
       },
       "https://deno.land/std@0.97.0/_util/assert.ts": {
@@ -316,6 +311,11 @@
         "signature": "3ada64eb2aa3fdb7f69d5f7f48b8ac01f6b6f0b4cd3c8841ef5d0b9fd1735cf7",
         "affectsGlobalScope": false
       },
+      "https://deno.land/std@0.97.0/fmt/colors.ts": {
+        "version": "b338be483e6def4af744c0a7a1cc9a236ec4ed83fda629e0c85b8be65c425599",
+        "signature": "830facb8547771995a3fd3b86dfbaf689f31625bfb20d10f3dcc26e671698070",
+        "affectsGlobalScope": false
+      },
       "https://deno.land/std@0.97.0/testing/_diff.ts": {
         "version": "6d54ce35efc1db0cc16b67e55fef644e2e1ed86e20a5e8fc8e61395dee4b167a",
         "signature": "b30d287ce3bc986399cc225f5c24ed87b49455aa2207b33cc63cb9aeda51e019",
@@ -336,24 +336,19 @@
         "signature": "7cc67f6941c93daed42ca96e322629ffc29ddca084d9d62ba5ec9a3a846009b3",
         "affectsGlobalScope": false
       },
+      "https://deno.land/std@0.97.0/fs/exists.ts": {
+        "version": "133a5398b617954e3d98916987831d7038d056208b502279daa6f67cc5f0019a",
+        "signature": "476ff09bc8025af4abbbb27e6159a395980c6073b7a0b674ad7a13b383d02d60",
+        "affectsGlobalScope": false
+      },
       "https://deno.land/std@0.97.0/log/handlers.ts": {
         "version": "3262979572703abc953521e3d0f0779daa21c0b9c08f84ec7208026fc640c41c",
         "signature": "7817807a9ca494aaa9a6cb8543d1cd149d69a100d7db26c548d4faeb96107d9f",
         "affectsGlobalScope": false
       },
-      "https://deno.land/std@0.97.0/datetime/tokenizer.ts": {
-        "version": "8a19bcfd54def5e81a9b45700f21b57ea9bec97612030736fbbfbe790634d16d",
-        "signature": "5bce772a1e6ec63af79275fd768be9bbcfb8f7e32f09c149eb6cb3cc7cc410ca",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std@0.97.0/datetime/formatter.ts": {
-        "version": "fdf57a33a10789e23c51a98365b3b02ace73139205850cf3856ab60f251654c4",
-        "signature": "46050ae7117054a1c2290af5f458644f0c0d729b323aa53f8aa79066d07f7092",
-        "affectsGlobalScope": false
-      },
-      "https://deno.land/std@0.97.0/datetime/mod.ts": {
-        "version": "15773f592f0ae824af16a855b55b1e846aa99b1d370e37fa59de86f6120f4ed9",
-        "signature": "80f52d34d0592f9689e651c234ec0341d1db01b64613f03ff4bfea1ecb1d2a55",
+      "https://deno.land/std@0.97.0/log/logger.ts": {
+        "version": "4da2cd32b5644af117ce49589e0adaab0dd9f93ef3fe3f07558b938dbd40879b",
+        "signature": "8b6bc892eaf097423cafd67a6c804418c4adfece13529117468ea7061089df67",
         "affectsGlobalScope": false
       },
       "https://deno.land/std@0.97.0/log/mod.ts": {
@@ -361,8 +356,13 @@
         "signature": "362cf0cebe93cd2a3be799b8a60ad8a8fbbb321e00b85f1cb811c6a37cbcca66",
         "affectsGlobalScope": false
       },
+      "https://deno.land/std@0.97.0/datetime/mod.ts": {
+        "version": "15773f592f0ae824af16a855b55b1e846aa99b1d370e37fa59de86f6120f4ed9",
+        "signature": "80f52d34d0592f9689e651c234ec0341d1db01b64613f03ff4bfea1ecb1d2a55",
+        "affectsGlobalScope": false
+      },
       "file:///Users/nhatvu148/Work/aws-course/deno-csv/main.ts": {
-        "version": "3ebb596364c5b1e7dd279224b33f399bbdb1d7193d39e856f9ffd3b01e938e29",
+        "version": "37eec804b30bc80549131fb9db4da91ab9e3a86ac278bf6b481581787a55e479",
         "signature": "caaeffc99ed7f3985c61cb8dc8cc7e2d79f8e6245122cfd4070b5e563b46c726",
         "affectsGlobalScope": false
       }
