@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "etag": "W/\"637d0501dba5a0e835e12c5890c4acca\"",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "cf-cache-status": "MISS",
+    "cf-ray": "65a859f59ddc0af4-NRT",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-id-2": "1oAXQO9oH5767NX8OWD3IcLpl0v3zUcIJh8Xc3tZ75sOhZzdHh4L6cQkuu7zybRESxmOI0wPosI=",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "24CEG8T0QM85KRBW",
+    "access-control-allow-origin": "*",
+    "cf-request-id": "0a7d168d7d00000af48e049000000001"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_hasUnicodeWord.js"
+}

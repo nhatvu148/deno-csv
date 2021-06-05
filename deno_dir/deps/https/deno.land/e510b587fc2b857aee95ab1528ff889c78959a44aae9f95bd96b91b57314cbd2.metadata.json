@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "cf-cache-status": "MISS",
+    "x-amz-request-id": "24C44MN15F820HPJ",
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding",
+    "server": "cloudflare",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-request-id": "0a7d168f6600000af4a2b03000000001",
+    "x-amz-id-2": "YRqi194N4X2ExN/vBrhmzGSE8cvi7Ow3yxe2MYAOiZeH5uVmrg7NjXbk7GFCExZ1S500khI6Ebg=",
+    "etag": "W/\"f2a87d009fa49301b8c31d3fa6d3f313\"",
+    "cf-ray": "65a859f8a8880af4-NRT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_createBind.js"
+}

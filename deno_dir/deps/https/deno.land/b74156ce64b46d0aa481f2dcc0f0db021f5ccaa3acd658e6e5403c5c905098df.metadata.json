@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "cf-cache-status": "MISS",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "x-amz-request-id": "K49HAQC82GFDJJ3F",
+    "etag": "W/\"6d45d8934776f678ecade10d90bf39b9\"",
+    "access-control-allow-origin": "*",
+    "cf-request-id": "0a7d168bc000000af45f878000000001",
+    "x-amz-id-2": "jE4+0d2JBmGtcnrAUXOhavj6aWyMpprkV08WNTpsVK8Dni7+VUh61SSm6xpCDISR8k2q+jXZw+I=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "cf-ray": "65a859f12ca90af4-NRT",
+    "vary": "Accept-Encoding",
+    "x-amz-version-id": "null",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/toSafeInteger.js"
+}

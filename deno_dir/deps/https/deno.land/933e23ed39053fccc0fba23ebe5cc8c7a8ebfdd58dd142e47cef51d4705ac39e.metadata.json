@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "cf-request-id": "0a7d168d5000000af478325000000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "content-type": "application/javascript",
+    "x-amz-id-2": "lTBnzAWIpYoIP6NxaYpZsZA0gMXxJ6Ag2pHZfMqBrD1PBtZdc4mpaaPRa2aGwbrjGAkftj/X6Ms=",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859f54cf50af4-NRT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "etag": "W/\"8eb2ba8717df9d17dc01b9b247bbecfb\"",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "24CBDFWE16VST3ET",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-cache-status": "MISS"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_createFlow.js"
+}

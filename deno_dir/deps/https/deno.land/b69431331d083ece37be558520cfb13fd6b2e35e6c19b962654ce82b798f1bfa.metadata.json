@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "K49SPM639B150624",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"9072249a957d969e1123e8555076f9dd\"",
+    "cf-ray": "65a859f12c130af4-NRT",
+    "cf-cache-status": "MISS",
+    "x-amz-id-2": "U+QnjPw9ujvA1V9tNhP7a25kunAHd2KRBMFzx10/TNYLYsf1VP/DJPBJa5LCJxO+xUK4xgW0HsY=",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "server": "cloudflare",
+    "cf-request-id": "0a7d168ba700000af468083000000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/pick.js"
+}

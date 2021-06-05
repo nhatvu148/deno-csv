@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cf-cache-status": "MISS",
+    "cf-request-id": "0a7d168ca600000af4ae228000000001",
+    "vary": "Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "24C0YV3WH4YK0FX0",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "etag": "W/\"d817664d148c0c3a5e56bb85eea29c47\"",
+    "server": "cloudflare",
+    "cf-ray": "65a859f4399a0af4-NRT",
+    "x-amz-id-2": "vwAAT3Fq4tZ7TFl0g2qaZT/qZNGgHFj53hd3BMhtI+myPbG5oUQJ2glccXKbdFpnLSbYt+SbuBo=",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/xor.js"
+}

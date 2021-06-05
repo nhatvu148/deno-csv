@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cf-ray": "65a859f128190af4-NRT",
+    "cf-request-id": "0a7d168ad800000af468060000000001",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "null",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-request-id": "K49Y18ZN6CGRE4EK",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "etag": "W/\"da0508f5269e16bc81f488a35cd5d433\"",
+    "x-amz-id-2": "Cg+VVS9Uy0VytmEGSBN577jFjRmh2NMYyvIfvZMQTgbv3cyrKZryL90GnRKSOF9nURqOmS5kab0=",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding",
+    "cf-cache-status": "MISS",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/stubTrue.js"
+}

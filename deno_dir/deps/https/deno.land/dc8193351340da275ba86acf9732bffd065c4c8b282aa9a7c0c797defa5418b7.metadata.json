@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-ray": "65a859f12ea30af4-NRT",
+    "cf-cache-status": "MISS",
+    "vary": "Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "24C5Z4SRH0GKD3XH",
+    "etag": "W/\"ddd4f7c6a25e57c183c49c8a5b17bdfa\"",
+    "cf-request-id": "0a7d168c2c00000af48507f000000001",
+    "x-amz-id-2": "xqiGm79N1DR5JrVJoVi/ZKRDYxO6MYe3sl8ZwmDXOmf0L2rzMIBpgFzfl7+tccdaweWjwWQ4+90=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/clamp.js"
+}

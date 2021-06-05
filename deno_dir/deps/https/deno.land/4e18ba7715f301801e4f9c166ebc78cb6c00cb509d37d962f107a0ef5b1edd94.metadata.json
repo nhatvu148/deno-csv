@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-ray": "65a859f80e220af4-NRT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "content-type": "application/javascript",
+    "cf-request-id": "0a7d168f0900000af4cb13e000000001",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "x-amz-request-id": "24CEBNV7HZD878TW",
+    "cf-cache-status": "MISS",
+    "x-amz-id-2": "gSYGVbed3mv7ehEyHvoqeiEf9GCczPeVuc7PC1TARHQDRuMqijnvLyHTfGgC5kY8VEYR/xq8OHc=",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"40f396c5938c1feb0702f2b7ecdb50b2\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_isLaziable.js"
+}

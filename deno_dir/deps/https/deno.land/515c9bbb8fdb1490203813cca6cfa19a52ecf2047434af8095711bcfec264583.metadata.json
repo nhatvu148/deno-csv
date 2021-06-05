@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "cf-ray": "65a859f62fa90af4-NRT",
+    "server": "cloudflare",
+    "etag": "W/\"8a15645919696e077bb9f173a2a69aba\"",
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "WaTYkFHm4hU2dJPH+JLr7gW+EK7IEXUaJX5ryWwUKi75SkXDgeGJwebtw/Vx5qhdk4PgHRu3Rgs=",
+    "cf-request-id": "0a7d168de200000af48c8f3000000001",
+    "x-amz-version-id": "null",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "content-type": "application/javascript",
+    "vary": "Accept-Encoding",
+    "cf-cache-status": "MISS",
+    "x-amz-request-id": "24C97N44MPD2GE7C"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_createMathOperation.js"
+}

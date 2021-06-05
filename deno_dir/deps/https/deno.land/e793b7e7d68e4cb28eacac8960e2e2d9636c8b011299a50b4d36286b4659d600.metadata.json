@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "x-amz-id-2": "K6Y5bHOWBGsIPK2Jyjtu8c21YjnkvThmoGa3kR9knZIH00zqBPMzR3BZ7Tu0grXldmJJ1UUH48I=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-ray": "65a859f87ffb0af4-NRT",
+    "cf-request-id": "0a7d168f5100000af4af3cb000000001",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"c2e6e38ee54270ee3ef082fced3ee49f\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "x-amz-request-id": "24C9E55BK4D3AXRX",
+    "x-amz-version-id": "null",
+    "server": "cloudflare",
+    "cf-cache-status": "MISS"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_createRecurry.js"
+}

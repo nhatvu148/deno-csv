@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "x-amz-id-2": "wtPMG7/bU2G9R4K0e01prE2dV5vKqYATw26fZ/E2v+LuQhOzH1R5o7yWSKGgx6kJMurk6fNcfE0=",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "etag": "W/\"d2bb6e3a3b7a15ea9194c5e089053054\"",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "24C2K7JD9YC10ESG",
+    "cf-request-id": "0a7d168ccd00000af48c17a000000001",
+    "content-type": "application/javascript",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-cache-status": "MISS",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "access-control-allow-origin": "*",
+    "cf-ray": "65a859f47a3f0af4-NRT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/upperCase.js"
+}

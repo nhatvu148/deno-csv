@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "IWewepU3XY6+tVLAZucnb47ttULajc9jwXfmKlSLdMCa+2P3ysualiGZ5Tcmlc8M61lzQCGPKwE=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "x-amz-version-id": "null",
+    "etag": "W/\"269a88947ed01833cd49f6e8efa9a173\"",
+    "x-amz-request-id": "24C68BWQ1MH73C3G",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-ray": "65a859f82ea20af4-NRT",
+    "content-type": "application/javascript",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "cf-cache-status": "MISS",
+    "cf-request-id": "0a7d168f1d00000af4cc37a000000001",
+    "server": "cloudflare",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_shuffleSelf.js"
+}

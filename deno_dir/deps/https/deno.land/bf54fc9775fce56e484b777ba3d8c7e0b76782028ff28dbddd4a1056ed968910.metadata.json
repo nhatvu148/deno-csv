@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"0ba4f7a27fc846e48bccfd4555ec7a9c\"",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "x-amz-request-id": "K49PW0V9FPSAVY36",
+    "last-modified": "Sat, 29 Aug 2020 19:56:50 GMT",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "application/javascript",
+    "cf-cache-status": "MISS",
+    "x-amz-id-2": "IthzANzTOY1IDMofxqQQZhsDmeK7Is7N0gghZUM0pWRvd4HdY7L3+cKWiFhO72janVEz2UCHGk4=",
+    "cf-request-id": "0a7d168c2900000af4c4237000000001",
+    "cf-ray": "65a859f12ec90af4-NRT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/toNumber.js"
+}

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "0xcruT5bdJQgyws9fPHT6xQ86SKwWQ+uzr7erDjMblDbOQl5tpLCm5GN1grmmwKAfhErpEOVWxQ=",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "content-type": "application/javascript",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "server": "cloudflare",
+    "cf-request-id": "0a7d168bc000000af4c714a000000001",
+    "cf-cache-status": "MISS",
+    "x-amz-version-id": "null",
+    "cf-ray": "65a859f12ca70af4-NRT",
+    "x-amz-request-id": "K49VY3JYMQV9EPSP",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"8f37145ccb340c4361dc9e1f89e45c88\"",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/tap.js"
+}

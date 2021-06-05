@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "x-amz-id-2": "re8rVQqA/i9LJqYwSqe5BlobubL78soypSoJZDK8mlpOqH2MyjEU5V/vZL6U/PouruAlzLcCcE8=",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "24C6F4HZRRCKMSEY",
+    "x-amz-version-id": "null",
+    "etag": "W/\"dc730899a46873dd6cafd764295d084f\"",
+    "cf-request-id": "0a7d168d9500000af461833000000001",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859f5be3e0af4-NRT",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_reInterpolate.js"
+}

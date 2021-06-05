@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"5c0e1a54c5eb887bad3238a46e5025a5\"",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "x-amz-version-id": "null",
+    "cf-cache-status": "MISS",
+    "content-type": "application/javascript",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d168c0d00000af462871000000001",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "X45LLjWWwkwRThHlbTOxoK2vnT7KdB9MbWVlMQQyPMopX4WTS2DQUIC5EDGLbZB03Uj6iCX2xFY=",
+    "cf-ray": "65a859f12e2f0af4-NRT",
+    "x-amz-request-id": "K49VJ6FC4S6W3PEA",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/lowerCase.js"
+}

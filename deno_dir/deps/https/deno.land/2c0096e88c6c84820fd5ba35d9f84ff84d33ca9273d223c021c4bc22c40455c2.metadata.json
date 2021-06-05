@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "cf-cache-status": "MISS",
+    "date": "Sat, 05 Jun 2021 09:25:04 GMT",
+    "x-amz-id-2": "l1VnVxL1JVyhbZLOXT586VSZMgERlbuFArJIuMU0gtyS0DD82+Vk+qNJUkLwOePMc+z/Oo8Ocfw=",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-request-id": "5TABT915J3SHYT58",
+    "last-modified": "Sat, 29 Aug 2020 19:56:56 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-ray": "65a859fe8d0b0af4-NRT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d16932c00000af4931ad000000001",
+    "etag": "W/\"3de55e924cca87d780135fa521b2299f\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_Uint8Array.js"
+}

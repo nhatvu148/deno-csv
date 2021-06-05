@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "server": "cloudflare",
+    "etag": "W/\"c26e3c1a1b4881c5301c142fffdd4e7e\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "content-type": "application/javascript",
+    "x-amz-request-id": "24C0PKZW80G7BZ92",
+    "x-amz-version-id": "null",
+    "cf-cache-status": "MISS",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859f8a88e0af4-NRT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "QSSZzLFymdAY5oCp8K66WVce8w7gDeziVK+byHhV7yg8rEHaYLqxsPcxVBEHFGYgsfu+fGS1ssY=",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-request-id": "0a7d168f6700000af4cc389000000001"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_createPartial.js"
+}

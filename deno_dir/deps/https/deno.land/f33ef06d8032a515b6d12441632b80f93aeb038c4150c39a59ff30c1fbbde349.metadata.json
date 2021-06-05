@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "last-modified": "Sat, 29 Aug 2020 19:56:53 GMT",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-request-id": "0a7d168aee00000af462840000000001",
+    "cf-ray": "65a859f128890af4-NRT",
+    "x-amz-version-id": "null",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "server": "cloudflare",
+    "cf-cache-status": "MISS",
+    "etag": "W/\"8ebce1e5fa0e7e8130c3662adc5b6f29\"",
+    "x-amz-id-2": "8W8oW8c92PQ4BEWb6R6mEZbr37t+3L4RxKlpwzx4jJb3dh/juTeIy3pSma4iVaeMGFHrsBS0iSo=",
+    "x-amz-request-id": "K49Z2PSHQYZ3J99K",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/zipObjectDeep.js"
+}

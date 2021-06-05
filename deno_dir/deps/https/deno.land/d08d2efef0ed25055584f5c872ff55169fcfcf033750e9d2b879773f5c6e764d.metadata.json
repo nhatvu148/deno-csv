@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "x-amz-id-2": "J87MplJ5/YOgXFXUGXJIkTnMGsUHBkYNlCU9m7d6aTfkucr6qKqR/pIvTAic6Wxt54ZUsYR1Hzs=",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "content-type": "application/javascript",
+    "cf-ray": "65a859f12f6d0af4-NRT",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "server": "cloudflare",
+    "x-amz-request-id": "K49J4FZPEG7MXXZM",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"51d05d1a766ec9167184997af57d9c02\"",
+    "cf-cache-status": "MISS",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d168abd00000af4a586c000000001",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/intersectionBy.js"
+}

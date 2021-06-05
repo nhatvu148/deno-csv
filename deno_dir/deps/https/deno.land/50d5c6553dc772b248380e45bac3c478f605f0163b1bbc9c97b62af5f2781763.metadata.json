@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-request-id": "0a7d168d9a00000af474ac4000000001",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"4cf3ee53f8e6d9642506c1a88016d8c1\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "MISS",
+    "x-amz-id-2": "kyEyL6+1oI/J2tVcYSuAYsG3dVRpfYMyhjFsHh2VrFTArij+195NgbO4LiNnbj6DlFQAc8tpqoA=",
+    "cf-ray": "65a859f5ce630af4-NRT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "x-amz-request-id": "24C5VRCDBQ6HCRPF",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_baseDifference.js"
+}

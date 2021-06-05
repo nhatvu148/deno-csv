@@ -17,6 +17,6 @@
 - export DENO_DIR=deno_dir
 - deno cache main.ts
 
-## Packages:
+## Packages, 3rd party modules:
 
 - https://deno.land/x

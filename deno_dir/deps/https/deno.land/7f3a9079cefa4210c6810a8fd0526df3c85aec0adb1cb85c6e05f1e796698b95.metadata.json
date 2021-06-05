@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "last-modified": "Sat, 29 Aug 2020 19:56:50 GMT",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-id-2": "wE3GUGitqLOuuhKdPoRKKCMbDZqt4ZFWChLUAYWvknvj8P9CUSdo42X6GsRKXNKALAZA83XhQpg=",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-request-id": "0a7d168c1f00000af4a58a2000000001",
+    "x-amz-request-id": "K49K9KTQ5KK6Y6J8",
+    "etag": "W/\"662aff73d25542573de7cf67897bc14e\"",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "server": "cloudflare",
+    "cf-ray": "65a859f12e940af4-NRT",
+    "vary": "Accept-Encoding"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/isBuffer.js"
+}

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"467137e915cc960907da141aed15bf4a\"",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-request-id": "K49JYEFP07DFJ27E",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "x-amz-id-2": "mdu6Bv1zuOo9rhje0b7yEfIlg9UsIMDRUtdu/vzvq/S0aYZuD1fcmOVuYb0H8PI8lK60g0GvMMs=",
+    "cf-ray": "65a859f12f8e0af4-NRT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "cf-request-id": "0a7d168ac000000af4d52c1000000001"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/flowRight.js"
+}

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cf-cache-status": "MISS",
+    "cf-request-id": "0a7d168d4200000af478323000000001",
+    "x-amz-request-id": "24C22QRD45126CRY",
+    "x-amz-id-2": "S64dYJBupKLY7DqF8aXP14tenftALS+l9T9SxbURu2cfBe/Qg+EZuvHgw6btNXwnqdSjKNfXaE0=",
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-ray": "65a859f53cba0af4-NRT",
+    "server": "cloudflare",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"5234c0b8aeed4aed415a24d4c68128e3\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_baseIteratee.js"
+}

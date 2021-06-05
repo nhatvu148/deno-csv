@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "content-type": "application/javascript",
+    "vary": "Accept-Encoding",
+    "cf-cache-status": "MISS",
+    "x-amz-id-2": "DGOcVSkSBp5VI2LDphX9UocdUX15OombxqDKbSdkS0mhjBsLoJl/utTVa9gDXkOzeVp4+2fhTk8=",
+    "x-amz-request-id": "K49RJKA0MM6D7CC5",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "server": "cloudflare",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"b211e4f542acd84b4f0881b65eb57e4b\"",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-ray": "65a859f12e2b0af4-NRT",
+    "x-amz-version-id": "null",
+    "cf-request-id": "0a7d168c0c00000af48d3d6000000001"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/findLastIndex.js"
+}

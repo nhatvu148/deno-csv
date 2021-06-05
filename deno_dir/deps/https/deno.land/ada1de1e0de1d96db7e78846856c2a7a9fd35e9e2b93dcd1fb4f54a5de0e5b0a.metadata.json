@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859f12c080af4-NRT",
+    "cf-request-id": "0a7d168ba400000af49e82e000000001",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "etag": "W/\"5010538e7feda80355087ea8e1fdca54\"",
+    "x-amz-id-2": "epgA0IwrokuFIq3w+dzwtJgpdlfyHt46JOsONxHKzeW6vGcTxSavi974nQnXeRZawKUQh0KBq68=",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "K49Y7F9HH0TQBFPM",
+    "x-amz-version-id": "null",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/invokeMap.js"
+}

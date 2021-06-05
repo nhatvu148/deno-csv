@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "24CFBEDAPB2K3YC5",
+    "x-amz-version-id": "null",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "cf-request-id": "0a7d168cad00000af496b93000000001",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-cache-status": "MISS",
+    "server": "cloudflare",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "content-type": "application/javascript",
+    "etag": "W/\"e2c824a76815c92934f908a64f92b4c7\"",
+    "x-amz-id-2": "Htw++jaT0KxhwI2eSugIOBzjfA3I6wp3Xmj3JkiWLHjC7ZduRfPYEgE2bJPteUbDURMP/9Z59+E=",
+    "cf-ray": "65a859f449b30af4-NRT",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/curry.js"
+}

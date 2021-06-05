@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "content-type": "application/javascript",
+    "etag": "W/\"d14cd55534cc97d2f6a9ac4646f99f96\"",
+    "x-amz-id-2": "rabvkjWXLUWfbeXrF8N02/NoKFhza8LM0LwC9DoNl5C6hRruKbjjNrlj2y+i1fMoXkS/CgSg6Y4=",
+    "age": "1357",
+    "x-amz-request-id": "8HFZRS0KR49RDHDT",
+    "vary": "Accept-Encoding",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-cache-status": "HIT",
+    "cf-ray": "65a859f5eee90af4-NRT",
+    "cf-request-id": "0a7d168db500000af4cb102000000001",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_Symbol.js"
+}

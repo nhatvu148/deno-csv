@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "etag": "W/\"40ce966c05f095e3f8a3fff59076baef\"",
+    "content-type": "application/javascript",
+    "x-amz-id-2": "xd/Re2lZ+LyrvnBHDCLgSyXkiA+OULLWF9chmdtjub10bRG8p/VJCck3NXvvkmepHe050k3CqkU=",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-cache-status": "MISS",
+    "last-modified": "Sat, 29 Aug 2020 19:56:53 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d168c0500000af49726a000000001",
+    "x-amz-request-id": "K49GNVT90T5SMBDZ",
+    "server": "cloudflare",
+    "cf-ray": "65a859f12dcb0af4-NRT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/isInteger.js"
+}

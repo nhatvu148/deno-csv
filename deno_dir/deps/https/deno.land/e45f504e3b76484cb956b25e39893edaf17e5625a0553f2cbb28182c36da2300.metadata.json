@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "etag": "W/\"d0c200c49c702676bcc8b4db09c3f019\"",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-request-id": "24C9SNK0KG52G390",
+    "cf-cache-status": "MISS",
+    "cf-ray": "65a859f82e7f0af4-NRT",
+    "cf-request-id": "0a7d168f1900000af499be9000000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding",
+    "x-amz-id-2": "QcSUpCO4X1vu+yCelcYvMWwcpWr/IF1oYzI7xyqGpFg0pB4fVWCIfl6fsEHf5Vb/Vdr/G7YwjP4=",
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "last-modified": "Sat, 29 Aug 2020 19:56:47 GMT",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_WeakMap.js"
+}

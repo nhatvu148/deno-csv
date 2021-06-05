@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-request-id": "0a7d168c2000000af4ba941000000001",
+    "etag": "W/\"c179499f2eb58d57e541cc5bfc097890\"",
+    "cf-ray": "65a859f12e9d0af4-NRT",
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "eINRfpODpWQLsJDZ+ZvVdgjSP+zPjnQXcOfyOclwth/Z0fkd+Sj0oSbq096jQ/FFt3ZiJaBM7Hs=",
+    "x-amz-version-id": "null",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding",
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-cache-status": "MISS",
+    "x-amz-request-id": "K49YX7ZGNCHP3T91"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/padEnd.js"
+}

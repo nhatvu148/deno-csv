@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "x-amz-request-id": "K49YT1BH82ZEHWBP",
+    "vary": "Accept-Encoding",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "etag": "W/\"a64143d09ca64e56a15fdcb48d96fcd4\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "content-type": "application/javascript",
+    "cf-ray": "65a859f1287f0af4-NRT",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-version-id": "null",
+    "cache-control": "public, max-age=31536000, immutable",
+    "server": "cloudflare",
+    "cf-cache-status": "MISS",
+    "cf-request-id": "0a7d168aee00000af485053000000001",
+    "x-amz-id-2": "sCdEsMkDE08rawa28hEWLGwzKigJKfovA2Q7L6b9Qt9Q10dB3IcX1RWF8NqsidvqEuk5iiFkT78=",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/cloneDeepWith.js"
+}

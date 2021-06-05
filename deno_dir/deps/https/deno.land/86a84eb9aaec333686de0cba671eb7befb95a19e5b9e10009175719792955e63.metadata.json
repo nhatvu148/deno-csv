@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:58 GMT",
+    "cf-request-id": "0a7d168b6c00000af48d3c2000000001",
+    "content-type": "application/javascript",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "x-amz-request-id": "K49KTF44CJ7P02R7",
+    "server": "cloudflare",
+    "etag": "W/\"02c5bebb29c9c83a4d8fedc74c575c97\"",
+    "cf-ray": "65a859f12abe0af4-NRT",
+    "x-amz-id-2": "UuzsiKg4eXuqn9v5VUc9qwEStjNUJLCkF7rj9AWAxlwDLp4CkDFmxKKeQgrvd0sJtS+Pzcd1Zs8=",
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/floor.js"
+}

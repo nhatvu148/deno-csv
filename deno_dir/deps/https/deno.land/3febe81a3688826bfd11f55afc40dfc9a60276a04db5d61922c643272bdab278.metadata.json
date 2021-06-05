@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-ray": "65a859f12c9c0af4-NRT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "x-amz-request-id": "K49S8CXZ44NXZKB6",
+    "x-amz-id-2": "zzzvaIaEMqWa5scLu+VPp56DlJ30kkoyFKuAvHYMBp0a4wJ2xBB2QXyVIzRq2fgYkv/TaQiD+Ks=",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "etag": "W/\"1ca58759c1937b48abb9605afa8db7bb\"",
+    "cf-cache-status": "MISS",
+    "access-control-allow-origin": "*",
+    "cf-request-id": "0a7d168bbe00000af46da03000000001",
+    "vary": "Accept-Encoding",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/flip.js"
+}

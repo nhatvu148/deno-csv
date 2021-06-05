@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"f308f8a593a307854355993b380e0422\"",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-id-2": "D0QbCFOSrJngxX3LMQVaxctbnPP1rTGbTxBXKX400VrmmXm8c6Z6Bgvnz7sLXriSEQAM9EbV3X8=",
+    "server": "cloudflare",
+    "x-amz-request-id": "K49HAJJ5NFVRBS0X",
+    "cf-ray": "65a859f128230af4-NRT",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-request-id": "0a7d168ae400000af49e815000000001",
+    "vary": "Accept-Encoding",
+    "cf-cache-status": "MISS"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/trimStart.js"
+}

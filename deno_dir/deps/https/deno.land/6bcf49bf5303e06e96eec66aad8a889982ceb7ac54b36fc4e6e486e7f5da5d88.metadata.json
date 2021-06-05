@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-ray": "65a859f12ec50af4-NRT",
+    "x-amz-version-id": "null",
+    "cache-control": "public, max-age=31536000, immutable",
+    "access-control-allow-origin": "*",
+    "content-type": "application/javascript",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-id-2": "jLRqSt+ihH0Wac9WQSCbIsR32sd2xJs5ztFde+0bvxmU96oMBXz8aO5mXZ4yqPE2rEyl84ZnFwM=",
+    "x-amz-request-id": "K49P943R2546BHA5",
+    "cf-request-id": "0a7d168c2200000af4af35b000000001",
+    "server": "cloudflare",
+    "etag": "W/\"0ede6dd05d5aa8ee688a1070e0edeeb4\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/kebabCase.js"
+}

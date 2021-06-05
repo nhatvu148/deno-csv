@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding",
+    "content-type": "application/javascript",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "x-amz-id-2": "g3qfmnQcmEuZGIqj92yrJthVfeYETj5mnKZ5ve2pcT8AIwHb3E+g7IdYnZgSaUGUviAIVkRujCY=",
+    "cf-ray": "65a859f12b520af4-NRT",
+    "etag": "W/\"8f61b4702def35dd59ab37bc89fe30ba\"",
+    "server": "cloudflare",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "K49SQ3MWMNCFCQXP",
+    "cf-request-id": "0a7d168b8e00000af45eade000000001"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/flow.js"
+}

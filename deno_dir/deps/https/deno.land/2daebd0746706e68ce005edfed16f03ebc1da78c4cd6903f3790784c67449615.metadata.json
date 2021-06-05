@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "Y0Vs4FSHz0JRDnnyVHvTWepD+MhExj07zDMnBd3Z0cAdg08VkeKVYEU6Dq5wqLezI4SvAUA88K8=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "server": "cloudflare",
+    "etag": "W/\"4f3d9ce2c824d3bc2c1b3a969d89935f\"",
+    "content-type": "application/javascript",
+    "x-amz-request-id": "K49K2Z3GW6YA25JA",
+    "cf-cache-status": "MISS",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-request-id": "0a7d168c1a00000af49b05c000000001",
+    "cf-ray": "65a859f12e810af4-NRT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/isArrayBuffer.js"
+}

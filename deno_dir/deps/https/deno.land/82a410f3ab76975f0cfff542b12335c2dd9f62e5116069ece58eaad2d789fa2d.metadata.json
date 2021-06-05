@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "etag": "W/\"9f9bf147dc627e1fc5765ffb7f9e16f7\"",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "cf-request-id": "0a7d168b6c00000af48c88a000000001",
+    "cf-cache-status": "MISS",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "content-type": "application/javascript",
+    "server": "cloudflare",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859f12ac00af4-NRT",
+    "x-amz-id-2": "svrcaEpOIk8J4s8UItNGQsRIS0Ii1nSt70GSEaNILXcvAEhzXBMIiBD54DdK2kLEvyLAW7rw+M0=",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "K49PR4T5M6WXHQ7C"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/zipWith.js"
+}

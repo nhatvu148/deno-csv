@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"878b8b7b7c4d10e64730edf9781ef0df\"",
+    "access-control-allow-origin": "*",
+    "cf-request-id": "0a7d168ba600000af4c4220000000001",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "x-amz-id-2": "0ed6QB3hHXuKhai4+HrCTBvBj5Mb5m+3EPYttN91afWvnlJzN96exyNywPdilxTw35j+fojb2Zo=",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-ray": "65a859f12c160af4-NRT",
+    "x-amz-request-id": "K49GHFTYKT2FRKFE",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/dropRightWhile.js"
+}

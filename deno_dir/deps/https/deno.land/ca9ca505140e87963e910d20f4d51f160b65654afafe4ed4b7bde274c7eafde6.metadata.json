@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-ray": "65a859f12e720af4-NRT",
+    "cf-request-id": "0a7d168c1900000af474a8c000000001",
+    "content-type": "application/javascript",
+    "x-amz-id-2": "JrRX75hZsgpg642YcFe5TafFq07wD6F01eoH6wO2vvzX4a3DsWwc7hWTxtXWYOJkrLpPiKvgfbE=",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "MISS",
+    "x-amz-request-id": "K49N5KPBG3RHP1BG",
+    "server": "cloudflare",
+    "cache-control": "public, max-age=31536000, immutable",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "etag": "W/\"ece8903fa19d431c221d33097cb4b387\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/flattenDepth.js"
+}

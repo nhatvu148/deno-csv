@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:04 GMT",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859fa9f540af4-NRT",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-request-id": "0a7d1690a600000af4711c4000000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "etag": "W/\"46e08c258531ad8c7d12e3d50da5551a\"",
+    "x-amz-version-id": "null",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "5TA26SR336NAHCQA",
+    "x-amz-id-2": "Obzx8Sxq3WimXvrVDGlzaIXA1l+ikTw9hGk8SeMIGnluTFUxz+MXOWtGk8Uo1SsdMFdIl6mDLlA=",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_memoizeCapped.js"
+}

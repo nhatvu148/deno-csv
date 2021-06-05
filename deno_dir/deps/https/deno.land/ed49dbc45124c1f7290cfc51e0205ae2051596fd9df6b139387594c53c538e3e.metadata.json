@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "x-amz-version-id": "null",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "cf-request-id": "0a7d168cf000000af45eb19000000001",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "server": "cloudflare",
+    "x-amz-id-2": "WD6iCaVX6+vuItgNwqmaUYYwP4/oVYO95NSjJyD5B0f24xAbOdnExrz7tO9Kh6R71MIOtkq0JDs=",
+    "etag": "W/\"4e123f8c411a30f1b4d2ecea11b6eb2e\"",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "vary": "Accept-Encoding",
+    "cf-ray": "65a859f4aaf20af4-NRT",
+    "x-amz-request-id": "24C3TE49HN8M5Y9P",
+    "cf-cache-status": "MISS"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/findIndex.js"
+}

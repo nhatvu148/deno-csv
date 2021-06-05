@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "cf-cache-status": "MISS",
+    "server": "cloudflare",
+    "cf-request-id": "0a7d168b2100000af481198000000001",
+    "etag": "W/\"e0fae0bb3fef30c78fac8326f406c4f3\"",
+    "vary": "Accept-Encoding",
+    "x-amz-request-id": "K49H7J7CYJW77B4G",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/javascript",
+    "cf-ray": "65a859f1298c0af4-NRT",
+    "x-amz-id-2": "xU8X5DgfSuL7tMuIMMlNpEKNuqt5F3VUACo+4ADkn3GT1f6MCBNDhXgQZzWv4ZAaqEPXQoN+sCE=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/isNull.js"
+}

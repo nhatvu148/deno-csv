@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "x-amz-id-2": "iweRRIicFFu8REeo/OFlptKa9xzdiw4ntDIaOpWSNchiYrCQ6ERYW6uWOJIEdDHqZXJVoGg1UE8=",
+    "content-type": "application/javascript",
+    "server": "cloudflare",
+    "x-amz-request-id": "24C7G89682E8E28H",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-version-id": "null",
+    "etag": "W/\"b9660d7ae88b1a82074da45417f68828\"",
+    "vary": "Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-cache-status": "MISS",
+    "cf-ray": "65a859f459cc0af4-NRT",
+    "cf-request-id": "0a7d168cb200000af4d3093000000001",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/zipObject.js"
+}

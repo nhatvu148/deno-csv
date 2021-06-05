@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "server": "cloudflare",
+    "etag": "W/\"17d553ec346586af0cbd6bf1cbcb081c\"",
+    "x-amz-id-2": "Z+U/T/HkViNUkaamjI1oN4CEJd3CBaGWBRG/xeNCwI4TAjzk0RIlLfTFoBQ0hCNZlksotXTRxPU=",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-request-id": "0a7d168ae400000af4710fc000000001",
+    "x-amz-request-id": "K49ZWTR8NFJFYQJ3",
+    "cf-ray": "65a859f12fa00af4-NRT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "content-type": "application/javascript",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "access-control-allow-origin": "*",
+    "x-amz-version-id": "null",
+    "cf-cache-status": "MISS",
+    "vary": "Accept-Encoding",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/wrapperLodash.js"
+}

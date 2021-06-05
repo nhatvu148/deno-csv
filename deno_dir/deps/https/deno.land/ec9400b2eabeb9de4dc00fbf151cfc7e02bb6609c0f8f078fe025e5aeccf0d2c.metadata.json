@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "etag": "W/\"893dc0907e1f38065231a979b292c076\"",
+    "x-amz-id-2": "ydh0E7d4klhskCTkTx/J5IV1grdYKa8bHAPXayPY3iDSVMCdOFX71WAsBsVlkBUbxeZbhcT7ouQ=",
+    "cf-ray": "65a859f12ebb0af4-NRT",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d168c2500000af462876000000001",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "x-amz-request-id": "K49KCNM83WMW9KKY",
+    "server": "cloudflare",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "null",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\""
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/invert.js"
+}

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "24C5DJV5RFZPRKQR",
+    "x-amz-version-id": "null",
+    "cf-ray": "65a859f449bb0af4-NRT",
+    "etag": "W/\"2da2f3e462fd7b97c611208369fe3608\"",
+    "server": "cloudflare",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d168caf00000af46da1b000000001",
+    "content-type": "application/javascript",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:50 GMT",
+    "cf-cache-status": "MISS",
+    "x-amz-id-2": "B/WLaayUmr9JbUc4ceXNtpUc++HXPWYr2dVKUjNyNLYICk2W2xMKr9Efh2kjq0ZIi4OZgSZ5FeY="
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/partition.js"
+}

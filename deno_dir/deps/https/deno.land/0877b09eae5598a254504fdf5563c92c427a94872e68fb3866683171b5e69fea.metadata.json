@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "etag": "W/\"1b4d8ab3b47688271397ffdb169ed535\"",
+    "x-amz-version-id": "null",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0a7d168c0e00000af46da0a000000001",
+    "cache-control": "public, max-age=31536000, immutable",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "content-type": "application/javascript",
+    "cf-cache-status": "MISS",
+    "cf-ray": "65a859f12e450af4-NRT",
+    "server": "cloudflare",
+    "x-amz-id-2": "bP2zTxaTcyG/7TtrPzF5rcudr7EWtZNjrq/WZyVmZabSQzb1GWpYYZiJ2TrT0Vwp4XnhrtQWg8g=",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-amz-request-id": "K49NGAF31JFEDJR3"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/flatMapDepth.js"
+}

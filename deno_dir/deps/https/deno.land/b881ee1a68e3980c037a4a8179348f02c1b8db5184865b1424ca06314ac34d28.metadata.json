@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:25:02 GMT",
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"944d166ee6d676902b2255bd02f0e3e1\"",
+    "cf-request-id": "0a7d168b4200000af4ca95d000000001",
+    "cf-ray": "65a859f12a1d0af4-NRT",
+    "x-amz-id-2": "zN+QCfZNO0TrUye42+22alyQXQgq4alKKOLM2pxafxzXaxMc1/4SCn1ijfU3Ti0vbtmQsmTxhIo=",
+    "vary": "Accept-Encoding",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "x-amz-request-id": "K49WQ04AEA4DXKBW",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-cache-status": "MISS",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "null"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/curryRight.js"
+}

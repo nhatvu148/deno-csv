@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "etag": "W/\"49f2733af3fcd1516d4e1aacf7c48ea2\"",
+    "x-amz-version-id": "null",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:57:04 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "x-amz-request-id": "K49W743FFSSRE72B",
+    "cf-cache-status": "MISS",
+    "server": "cloudflare",
+    "x-amz-id-2": "s/QXAryOPxjgZFyR90hFIjW3AoPD7Jv9+jtHEKhwg13to0bQHLqR/VFCA3b00HmXfVfosB8tI7E=",
+    "access-control-allow-origin": "*",
+    "cf-request-id": "0a7d168c2500000af4a116f000000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cf-ray": "65a859f12edd0af4-NRT",
+    "vary": "Accept-Encoding",
+    "content-type": "application/javascript",
+    "cache-control": "public, max-age=31536000, immutable"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/uniqWith.js"
+}

@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "x-amz-id-2": "0UWjYTqxxZCc62xAwvyrQ2Spml/T6pGdAzAYCUkGGmRG9ZJnR1EZNoj9xw1OORqbHPpX7Z+sDR0=",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "server": "cloudflare",
+    "cf-ray": "65a859f459c80af4-NRT",
+    "cf-cache-status": "MISS",
+    "access-control-allow-origin": "*",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "etag": "W/\"0213aa1154d4e539ffa5ce0324925d31\"",
+    "vary": "Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "cf-request-id": "0a7d168cb200000af4ae22a000000001",
+    "x-amz-request-id": "24C4REJBZ2CVCJ4K",
+    "x-amz-version-id": "null"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/slice.js"
+}

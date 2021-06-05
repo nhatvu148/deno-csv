@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "x-amz-request-id": "K49TJRCJW5CZJK5R",
+    "vary": "Accept-Encoding",
+    "etag": "W/\"6a44009bb53f8da46ce22025b24ee136\"",
+    "cf-cache-status": "MISS",
+    "last-modified": "Sat, 29 Aug 2020 19:56:55 GMT",
+    "cf-request-id": "0a7d168c2e00000af45e315000000001",
+    "cf-ray": "65a859f12ef10af4-NRT",
+    "x-amz-id-2": "9fqnjYWBUiLzYF+sLOrYP4pLpSRc42dxpEIBGLSBjv/QUvPBGy6EO5ywsO12Sr3NFtKmSR2iNsM=",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "content-type": "application/javascript",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/takeRightWhile.js"
+}

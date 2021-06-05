@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "x-amz-id-2": "mFkrkUGsjcbW4Z49gu0SUwDfNiLJhBXYdJUeYsHHP3oD0PghB+GQ9Vn6r4yicgAQO2Pu2dncc1s=",
+    "etag": "W/\"bc8362ad88eb877e678597de4c1e25da\"",
+    "x-amz-request-id": "24C71SCXW02D5XZ6",
+    "content-type": "application/javascript",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "vary": "Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "server": "cloudflare",
+    "last-modified": "Sat, 29 Aug 2020 19:56:49 GMT",
+    "x-amz-version-id": "null",
+    "cf-cache-status": "MISS",
+    "cf-request-id": "0a7d168d2100000af46ea9f000000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cache-control": "public, max-age=31536000, immutable",
+    "cf-ray": "65a859f50c1b0af4-NRT"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/reduceRight.js"
+}

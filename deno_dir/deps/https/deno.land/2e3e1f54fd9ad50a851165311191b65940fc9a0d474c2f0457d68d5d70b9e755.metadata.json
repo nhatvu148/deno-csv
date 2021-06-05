@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "content-type": "application/javascript",
+    "access-control-allow-origin": "*",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-ray": "65a859f6c9ce0af4-NRT",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "last-modified": "Sat, 29 Aug 2020 19:56:48 GMT",
+    "x-amz-version-id": "null",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-id-2": "kHbItGNodaxjqvPxV36RrJSiZBMLdc31V7fgBhuNQquyLs9lT1J8hlQ1sg6BspoBgW7akp57Bzc=",
+    "etag": "W/\"cd4f8b1be820bbb5a533392f04a1afe4\"",
+    "cf-request-id": "0a7d168e4100000af4a58f7000000001",
+    "x-amz-request-id": "24C483SFJTP26EXT",
+    "vary": "Accept-Encoding",
+    "server": "cloudflare"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_lazyClone.js"
+}

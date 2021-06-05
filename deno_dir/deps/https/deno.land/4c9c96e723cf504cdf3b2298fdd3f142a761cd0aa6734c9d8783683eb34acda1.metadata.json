@@ -1,0 +1,21 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-amz-id-2": "zMr5AyQXhAER9YjLsnPKEuD4arqa7vLGzY7WB8i5+1lPJUGzafP1oZvWOxjyJBdLOi56m+pvAE8=",
+    "vary": "Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:25:03 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "cf-cache-status": "MISS",
+    "x-amz-request-id": "24CAYP313J002ND6",
+    "cf-ray": "65a859f55d1e0af4-NRT",
+    "content-type": "application/javascript",
+    "last-modified": "Sat, 29 Aug 2020 19:56:50 GMT",
+    "etag": "W/\"a1df379d5ad50ab7a7685126656b23d6\"",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "null",
+    "server": "cloudflare",
+    "cf-request-id": "0a7d168d5700000af474abb000000001"
+  },
+  "url": "https://deno.land/x/lodash@4.17.15-es/_createPadding.js"
+}
