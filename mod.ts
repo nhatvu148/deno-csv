@@ -3,4 +3,4 @@ const readFile = async () => {
   console.log(data);
 };
 
-readFile();
+await readFile();
