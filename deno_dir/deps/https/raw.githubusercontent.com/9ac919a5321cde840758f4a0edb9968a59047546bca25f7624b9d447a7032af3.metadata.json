@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-fastly-request-id": "d5b8acae051fa8661e40e83f92405beb0383e03c",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "etag": "W/\"0415e614102cec086bf897c4a0c5794cf1bc812181ccf0e36494f005c1c2bdb6\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-github-request-id": "7FD0:0AC3:D25F0:10B5B6:60BB4218",
+    "x-timer": "S1622884889.895207,VS0,VE231"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_freeGlobal.js"
+}

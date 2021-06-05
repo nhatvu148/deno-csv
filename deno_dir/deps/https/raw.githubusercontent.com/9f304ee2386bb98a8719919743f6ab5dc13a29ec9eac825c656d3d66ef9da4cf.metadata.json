@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884889.098320,VS0,VE232",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"70e9418cc3e990cca0f3d3a68bb763e521c8f6f2207668acf328d88824ccacc7\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "0c58ed7c11bb24987c2fc113c711ec7b726d633e",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "1FEA:3C94:33BE64:3E88B1:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_countHolders.js"
+}

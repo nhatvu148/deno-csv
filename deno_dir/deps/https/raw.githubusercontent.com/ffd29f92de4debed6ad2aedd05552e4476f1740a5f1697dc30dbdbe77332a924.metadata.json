@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"ebd9c0b0b6889bc4101edb84d4a15c9a48cf414edb3e37dea4d056ae755aacd6\"",
+    "x-cache": "MISS",
+    "x-timer": "S1622884889.866443,VS0,VE248",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "41a551725a488a66c882ddc75ee89578fb7898fc",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "E1D8:0AC4:4B97D:847CB:60BB4218",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_isMaskable.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "x-fastly-request-id": "fa3c53a451c42fd6c42348d32f2f4c7e96034ae9",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"2da0c3c0e09e10ea8f6a7789d1fe04b3a6bac1353469d8d36956d8b768b6c617\"",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1622884888.598259,VS0,VE261",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "11BA:4D25:32865A:3D507F:60BB4217",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/conforms.js"
+}

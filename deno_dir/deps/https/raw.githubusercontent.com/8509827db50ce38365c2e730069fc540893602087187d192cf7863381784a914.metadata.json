@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "x-timer": "S1622884889.748519,VS0,VE233",
+    "x-fastly-request-id": "a1bf1f330b892a23d74ede307539df8622a6adb0",
+    "x-github-request-id": "FC3A:0A44:32F82C:3DB9C7:60BB4218",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "etag": "W/\"2e7f0d175510d3e79ace3dd45610ff72f418380c2fabd62a4d705bc5bec05286\"",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_trimmedEndIndex.js"
+}

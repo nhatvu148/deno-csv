@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"73b2f3e073e668025a36bd431ce2e162b1ed24c4be5d9f26b11ecbb337da46f1\"",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "2E3E:0635:3389FE:3E53DE:60BB4218",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-fastly-request-id": "1bf0a8f2e0ad71e5277fcca695d9f73baa268ad1",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884889.749717,VS0,VE226"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_charsEndIndex.js"
+}

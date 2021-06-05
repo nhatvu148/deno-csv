@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "debe44d7678da6f7688a480095c4d0e8444a9dbd",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "etag": "W/\"43c7fa8515aa05517bf0f5cccb31468bcfd8c873fe944e012dc6dd3565d2379b\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884888.480360,VS0,VE234",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "2F70:0635:3389EC:3E53CC:60BB4218",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_arrayReduce.js"
+}

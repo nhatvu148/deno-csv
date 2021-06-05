@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884888.863635,VS0,VE257",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "5dbb328cc67114bb61307352f695421a9b7fd496",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "etag": "W/\"b0879e245b6211112de8341a1e3602d065d52e12c91efa60bec5f153a8bbdcf3\"",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "x-github-request-id": "21A6:4D25:328669:3D5084:60BB4217",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/xorWith.js"
+}

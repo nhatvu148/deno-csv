@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-timer": "S1622884888.597877,VS0,VE246",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "49e0291ddb116cdd005deee1ff2f084a997f4809",
+    "etag": "W/\"270d558757988d8a885bdc64dea728b46c654221d66208bb8615bea043a5acbf\"",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "7FD0:0AC3:D25A2:10B554:60BB4217"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/map.js"
+}

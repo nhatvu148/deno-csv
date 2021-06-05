@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"3b18349c5353e3a68d0c88b5d4374d2bbff140fd56afd65d6312285a5aecf1e4\"",
+    "x-timer": "S1622884889.074595,VS0,VE273",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "5322:4D25:32869E:3D50C6:60BB4219",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "c21ec071798bdc2cd2c248cde046c0867fb9d811",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_mapCacheDelete.js"
+}

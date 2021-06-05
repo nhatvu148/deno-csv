@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884889.038168,VS0,VE275",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"fbab5943b0d1611595c1d6a5ec6b52d96847fac5c02ab2c60b38a2e1b399d5c8\"",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "83c3c33c41408ad54a9a692410a73221e69f0746",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "x-github-request-id": "5304:3C93:ECC00:1990A2:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_unicodeSize.js"
+}

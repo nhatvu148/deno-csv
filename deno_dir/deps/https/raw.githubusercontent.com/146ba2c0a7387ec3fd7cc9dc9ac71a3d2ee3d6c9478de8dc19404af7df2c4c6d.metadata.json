@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"c23599137bb87594fffe287ef64a0b85a3e2fdcad0507e660a029c728a906287\"",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "23a774e1e3c6a2d32a828447b21b28a5844a4344",
+    "x-timer": "S1622884889.442053,VS0,VE267",
+    "x-frame-options": "deny",
+    "x-github-request-id": "5AD2:4D22:C51F:B87B9:60BB4219",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_listCacheGet.js"
+}

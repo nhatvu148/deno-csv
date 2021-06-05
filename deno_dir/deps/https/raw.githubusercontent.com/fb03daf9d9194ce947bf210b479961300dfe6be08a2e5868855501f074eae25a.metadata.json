@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-fastly-request-id": "c1806c72128f5c222f739c92d3ee4c64f931467c",
+    "x-cache": "MISS",
+    "etag": "W/\"c8cad9aab42ddef564635d0695365012f5d07452419d37e2fc3d356a5d9c5968\"",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "x-timer": "S1622884888.597952,VS0,VE255",
+    "x-github-request-id": "DB32:5305:E63EF:1928F6:60BB4217"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/identity.js"
+}

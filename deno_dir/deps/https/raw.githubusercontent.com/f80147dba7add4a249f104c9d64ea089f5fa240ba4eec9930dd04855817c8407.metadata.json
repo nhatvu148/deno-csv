@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "593cf651a8756af5776433af08bd6c920d2f961c",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"6a0fcf7825c20e8c6f54666e1efee60538d8e84e42b2be6c4cb7bfe7b32f01b8\"",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-tyo11943-TYO",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-timer": "S1622884888.597680,VS0,VE263",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-github-request-id": "92A6:0635:3389AE:3E538B:60BB4217",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/startsWith.js"
+}

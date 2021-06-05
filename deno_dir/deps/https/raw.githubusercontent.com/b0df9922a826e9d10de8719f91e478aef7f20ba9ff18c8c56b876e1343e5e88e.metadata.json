@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "226C:5306:341395:3EDDD8:60BB4213",
+    "x-timer": "S1622884888.870576,VS0,VE234",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"7f72638d0bf024e899f5b1fe212b9b0151706a871a02d2d313ad6322465654ae\"",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "80752410fc75a03ce1d27c20744c781e693077ed",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/partition.js"
+}

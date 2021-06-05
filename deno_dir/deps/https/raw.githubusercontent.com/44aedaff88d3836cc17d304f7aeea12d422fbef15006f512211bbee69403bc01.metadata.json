@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"ac6222ff50505265e97dd8a09bbad9385baddfac4bea906700388b5dfe41536e\"",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "6426:5305:E63FE:192908:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "6c1c757ef83e3ff3a5e13e98e0bb45c9e117bec9",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-timer": "S1622884888.195362,VS0,VE248",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/multiply.js"
+}

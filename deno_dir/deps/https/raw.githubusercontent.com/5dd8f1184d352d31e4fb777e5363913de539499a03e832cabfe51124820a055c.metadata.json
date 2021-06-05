@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"d5f668a5d4ca20ff044a8c4194231342ca76b4c900b1c1a0a747afeb7453424d\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "b0ac1a0cda6c4dfa0e73f46374649c5f9976e39e",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884889.223312,VS0,VE233",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "7008:3C93:ECC04:1990A8:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_getNative.js"
+}

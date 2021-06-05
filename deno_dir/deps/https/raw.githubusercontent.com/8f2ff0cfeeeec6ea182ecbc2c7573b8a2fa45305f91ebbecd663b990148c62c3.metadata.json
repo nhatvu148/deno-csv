@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "etag": "W/\"4d617b4fc6d557eedd6892634b84e04d771dd202d2b1f757de5428a5224f9f80\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "7E1E:3D94:33EE20:3EB89B:60BB4218",
+    "x-fastly-request-id": "b00e75904a5daf089c8f2d161218c1f67d5bc021",
+    "cache-control": "max-age=300",
+    "x-timer": "S1622884889.977726,VS0,VE233",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_defineProperty.js"
+}

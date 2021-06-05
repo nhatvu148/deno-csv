@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "etag": "W/\"56edefce962ac5baa26fdc206dff306e613fcd925f593b3d303e085190710440\"",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884888.489087,VS0,VE231",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "4EEA:3C94:33BE49:3E8897:60BB4218",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "f20b115d9f15d92384c074cf6cda0cbc8f8c9152",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_createRound.js"
+}

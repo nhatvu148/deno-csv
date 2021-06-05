@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1622884888.939120,VS0,VE228",
+    "etag": "W/\"33fd0d3ac7ca297dfbd9e7bd1d747700df0c51cc2eaecd74add547d000e4d43b\"",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-github-request-id": "4094:0635:3389C5:3E53A2:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "d8e983346e9fb34b6c4e0397d1c3a41e2474110e",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isArrayLike.js"
+}

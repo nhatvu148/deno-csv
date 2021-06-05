@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "8FC4:5306:3413DD:3EDEA1:60BB4219",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "etag": "W/\"77e972711d8859f995df6836df1a5a40ea0cfd7b4a44832434a626c4c4ed5d54\"",
+    "x-timer": "S1622884889.242996,VS0,VE236",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "42ed7f1600341f7d15246612614d3f6e63e90a02"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_insertWrapDetails.js"
+}

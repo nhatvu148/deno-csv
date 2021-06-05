@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"411bd6be1a374b498de0e39aadec1eacd1ea125614597f60953f342fe1a64ae8\"",
+    "x-cache": "MISS",
+    "x-timer": "S1622884888.598524,VS0,VE243",
+    "via": "1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-github-request-id": "263C:5306:341384:3EDE3F:60BB4217",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "7b2c4cff48c50cbfaa4f51f34e5ece5fd1b0c5f5",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isLength.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "8fdd85a7c096eb513861a6fdd4f1441455f9dc91",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-github-request-id": "0C24:0634:EBA4D:197F61:60BB4217",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"c3ec9d7a2558e282d6c7af3221a3ab9c8ffcd3f3a720580ac757ac9ad9969be4\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1622884888.598485,VS0,VE264",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/toPairs.js"
+}

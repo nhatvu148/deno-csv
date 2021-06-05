@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "d567091d7606a649ab2e33ebd817fc01dcb101a5",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "x-timer": "S1622884888.598151,VS0,VE239",
+    "etag": "W/\"a90c3aac08011db4458ebaca1fb5a651620e7fbed6d4dc0e1d28dc75ffcd6489\"",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "A018:5306:341384:3EDE3C:60BB4217"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isObject.js"
+}

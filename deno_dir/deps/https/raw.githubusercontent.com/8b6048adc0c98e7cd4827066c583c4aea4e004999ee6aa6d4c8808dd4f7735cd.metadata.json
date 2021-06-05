@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "9618ba11a49f2b39cca0ece154e7463b9b15f65d",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "4284:3C93:ECBE4:199081:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1622884888.939244,VS0,VE248",
+    "source-age": "0",
+    "etag": "W/\"be98f29de5229d3d35661af629070f62eacd35f5f8d77fda77b054bc1fd360b5\"",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/dropWhile.js"
+}

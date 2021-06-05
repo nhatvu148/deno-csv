@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.182830,VS0,VE235",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "803ab1de265d55f5b9a8dd3dee295457bcfae7fb",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "BCDA:4D25:328672:3D509C:60BB4218",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"58b1b48baa789453846cdd15a15a10c748b7b4b26495d670f3073e5f0ecfc213\"",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/sumBy.js"
+}

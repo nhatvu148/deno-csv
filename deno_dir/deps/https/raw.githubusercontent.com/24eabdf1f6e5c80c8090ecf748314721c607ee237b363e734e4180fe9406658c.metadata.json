@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "65a868ea32176703f91e93cef05b6174558600e7",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884889.722679,VS0,VE237",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "4EEA:3C94:33BE54:3E889F:60BB4218",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "etag": "W/\"c5f0ffde767e5126268b4c44d6fe0f89a005087a34a1d6e35179ea66936d186b\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_Symbol.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "842352a8068c188a794a3ae0a4635b8da53c942a",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "etag": "W/\"c687e9fdc380dd868305a75edd40addfeb955512eae5590a7520cd29dd8bde9a\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-github-request-id": "82C4:4D24:FC499:1A8994:60BB4217",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884888.598198,VS0,VE262",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/functions.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "7b84061e287b0a4b36ad4d09ceb1d22932f57894",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1622884889.922637,VS0,VE245",
+    "etag": "W/\"54059548aab7ded61f30e273fcccb951ec1c9d97977cbbf0e5640dfe76cad3a2\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "7E0E:0A44:32F830:3DB9D4:60BB4218",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_cloneBuffer.js"
+}

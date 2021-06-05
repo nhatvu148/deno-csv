@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"fbe46d17ea01b02f3968c48d936e00309ff78b6d29a6c27a64d848abe9ebd89c\"",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.939355,VS0,VE238",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "B78A:3D96:E89C1:194EFA:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "465163fe7b4e9d4ae40ad6fcf2b2074366a9ffbf",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isBoolean.js"
+}

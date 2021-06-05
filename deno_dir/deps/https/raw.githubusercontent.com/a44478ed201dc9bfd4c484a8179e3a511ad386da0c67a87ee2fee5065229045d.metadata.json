@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "e9a544dc1280d01b8904d9043e6aa7a82572ce15",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "AA7E:4D25:328688:3D50AF:60BB4218",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884889.655173,VS0,VE255",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "etag": "W/\"075a9538cc78b3dba990d1b4bfbf4aef8d5ce12a5a9760414e963a33a80ef79a\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseDifference.js"
+}

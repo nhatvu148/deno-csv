@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-fastly-request-id": "37a4d1d1a0e1f925695af257ffca51894e7994a0",
+    "x-timer": "S1622884888.229034,VS0,VE237",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"884de03b44d3351de0c74e26d0a7cab2838a1b1573a98ff8c02321b141a06224\"",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-github-request-id": "7E82:3D94:33EDF7:3EB877:60BB4218"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/eachRight.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "b0fa73bb46bc43bc9c7ba9e90c0a54de2120f362",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "F99E:5305:E63FE:192907:60BB4218",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"fb7f1ba789acb9d6e660242c3cf826974d00c39b1a392c460bb8b86f1c02be69\"",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.190375,VS0,VE233"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isArguments.js"
+}

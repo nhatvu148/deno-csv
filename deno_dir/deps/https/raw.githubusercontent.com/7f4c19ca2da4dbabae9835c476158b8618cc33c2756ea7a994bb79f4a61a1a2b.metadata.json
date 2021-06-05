@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "5328:5306:3413C9:3EDE86:60BB4218",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884889.912217,VS0,VE227",
+    "x-fastly-request-id": "cdf115c31e5cde7a399eb538421517d0e6745cc2",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"17f3f980d4faace61f97aff2c3b5d989e175bce86915efebe2e37214079b0386\"",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_nativeKeysIn.js"
+}

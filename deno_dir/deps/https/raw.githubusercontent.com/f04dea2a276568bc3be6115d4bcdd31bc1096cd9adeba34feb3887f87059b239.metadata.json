@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-timer": "S1622884888.597709,VS0,VE283",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "source-age": "0",
+    "x-fastly-request-id": "1c219f73beb5b3572001171bdc02b1a4ee32093e",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "etag": "W/\"6cca25941e05afa6413beb61f7cad84ec44d10369cce4c5bc95976c2359e60b1\"",
+    "x-github-request-id": "FDAE:5306:341384:3EDE42:60BB4217",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/at.js"
+}

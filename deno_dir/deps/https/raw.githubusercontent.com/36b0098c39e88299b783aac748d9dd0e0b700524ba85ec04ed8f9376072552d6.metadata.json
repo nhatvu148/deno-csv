@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "b639d61e228a0244b9c3d909d938036a1f91e043",
+    "x-timer": "S1622884888.177663,VS0,VE237",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "etag": "W/\"6145c554a991f60371a8a2565007b600368a36d2c54067c9cddca5faa313463c\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "6412:3D94:33EDF2:3EB86F:60BB4218",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isTypedArray.js"
+}

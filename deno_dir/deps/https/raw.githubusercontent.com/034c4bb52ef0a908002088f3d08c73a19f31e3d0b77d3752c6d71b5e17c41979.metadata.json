@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"a1c6dae679d322956fd4966e46730c75654d8dbc86ac9880787ac129b93867d9\"",
+    "source-age": "0",
+    "x-fastly-request-id": "b54a5e7689657ab823180c6ab35c34b093cc64f1",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "49FE:0AC3:D25D6:10B599:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884888.488674,VS0,VE228",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseClamp.js"
+}

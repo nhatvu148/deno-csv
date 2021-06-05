@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "886d59ce25cfb6661e02c9e44d158077c466c10e",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "F54C:5306:341396:3EDE50:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884888.939042,VS0,VE258",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "source-age": "0",
+    "etag": "W/\"c38fc74ab8df09e10c204f0e65b781de892133aafbebe39607a34a5791c2e9b3\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/transform.js"
+}

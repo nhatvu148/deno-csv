@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS",
+    "x-timer": "S1622884889.722690,VS0,VE230",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "64fc143364baabe6b99c708e6adee15a8da60d38",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"2f98665c9debc49a7c1ed9b55035ad9a62b78a37697b1a774f89bfe80c688646\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "9100:3D94:33EE13:3EB88F:60BB4218",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/date.js"
+}

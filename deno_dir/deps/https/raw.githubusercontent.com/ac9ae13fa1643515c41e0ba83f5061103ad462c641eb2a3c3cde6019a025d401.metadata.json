@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "0def18ee268eeb85b02269f2d95d05530f972827",
+    "x-timer": "S1622884888.228938,VS0,VE239",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "3F26:0AC3:D25C8:10B58C:60BB4218",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "etag": "W/\"a7e2b9810d719fc8c9ea2ca8aef73e3d27fb7d38b15f628a8fd59b0b2b27174c\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/size.js"
+}

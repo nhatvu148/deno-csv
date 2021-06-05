@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"94c52d37d9293c20a45a9441258c5afe94a4969072f0a37a8a7a9ab751a1c185\"",
+    "x-fastly-request-id": "18bf422848ff105eee4964a6dc6fcb33dd666d10",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-timer": "S1622884888.597654,VS0,VE250",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "1B24:4D25:32865A:3D5077:60BB4217",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/toLength.js"
+}

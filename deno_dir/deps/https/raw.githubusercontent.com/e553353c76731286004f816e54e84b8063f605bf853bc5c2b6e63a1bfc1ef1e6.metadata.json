@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "2DB2:3C94:33BE39:3E8882:60BB4218",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"77124be5d15819ffa70ec253c9767ef176cf1d79b9ee6b034be23709136a0301\"",
+    "x-timer": "S1622884888.142851,VS0,VE235",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "1592d190647ec7cbd91c06a931c78a93c96fc91a",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isEqual.js"
+}

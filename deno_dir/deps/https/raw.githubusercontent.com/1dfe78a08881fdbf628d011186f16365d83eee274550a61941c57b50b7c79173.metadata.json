@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-timer": "S1622884889.781119,VS0,VE261",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"b005d94f43709a57dca2e271e76ba68817acf6379a9ad614b176c4afe0fb2f66\"",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "5f9451ab239e4ec43688ee70ab5ab6a220c53c67",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "9AD4:4D25:328690:3D50B8:60BB4218"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseSortedIndex.js"
+}

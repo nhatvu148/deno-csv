@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "x-timer": "S1622884889.004874,VS0,VE239",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "cache-control": "max-age=300",
+    "etag": "W/\"6794183da6b07187c0bdbd49a94e74fdd08fa95a939082b68bb565842e47f9ff\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "c3285ebb1b07fef5a860c46ee3334c1e4db555d0",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-github-request-id": "7764:3C94:33BE5E:3E88AC:60BB4219",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_Promise.js"
+}

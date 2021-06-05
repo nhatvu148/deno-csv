@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "11BA:4D25:32866C:3D5093:60BB4218",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-timer": "S1622884888.106320,VS0,VE239",
+    "x-frame-options": "deny",
+    "etag": "W/\"e88498e4681012595b09ecc23794ecb4ee4abf6a03ff12098c84e84b5b8c4d65\"",
+    "x-fastly-request-id": "bfcf00644bdda8d7e14f963833b53009821dd90d",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/escape.js"
+}

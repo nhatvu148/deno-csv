@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "C518:5305:E6404:19290F:60BB4218",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-fastly-request-id": "60ff52f75f873076267f0b40e5274967aea03ce0",
+    "x-timer": "S1622884888.492066,VS0,VE240",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "etag": "W/\"50af96a79982adbd434cd972830ff29b87e754d57eb93582b52c1e94dfa2d394\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_arraySampleSize.js"
+}

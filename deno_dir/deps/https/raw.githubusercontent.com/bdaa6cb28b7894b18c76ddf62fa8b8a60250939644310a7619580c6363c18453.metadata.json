@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "683C:0634:EBA57:197F70:60BB4218",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.228986,VS0,VE296",
+    "x-fastly-request-id": "8990a39e5249ce45e749ef88e6fbefe41a722181",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"409afb4f82f013cac035a3d46160594c6a1970808342291fcaf83d981eab85b4\"",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/uniqBy.js"
+}

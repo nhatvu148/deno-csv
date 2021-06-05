@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-fastly-request-id": "52001d5620a81b3dfc09950058aab2dbd54ceef2",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-timer": "S1622884889.038158,VS0,VE529",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "etag": "W/\"edf034acd3f0c7ee11faa83e22f53fd4f3a03dfb3bb5f4e7d665b5ee72d9a309\"",
+    "via": "1.1 varnish",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "1250:0A44:32F83A:3DB9E0:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_asciiSize.js"
+}

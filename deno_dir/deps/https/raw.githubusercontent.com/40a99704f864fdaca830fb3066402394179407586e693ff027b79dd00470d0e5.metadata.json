@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache": "MISS",
+    "etag": "W/\"47d55dacb4644dda5f85056eeb976004e8b7a4e3cdb4f1acfeb878886922036a\"",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1622884888.597931,VS0,VE263",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "45d4b569d349ab976c863a0f0e44fe348ef65c8d",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "x-github-request-id": "2216:0A44:32F7F3:3DB98F:60BB4217"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/ary.js"
+}

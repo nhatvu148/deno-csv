@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "etag": "W/\"97f759ed359f2c7f05affe0c6192bf9a7668d69dcdb2e260c8ce7003e8cb8a92\"",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "5aa83ce9ebbca5a910b040523795f6db6a2694ea",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-timer": "S1622884889.502691,VS0,VE244",
+    "x-github-request-id": "FC3A:0A44:32F822:3DB9C1:60BB4218",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_getHolder.js"
+}

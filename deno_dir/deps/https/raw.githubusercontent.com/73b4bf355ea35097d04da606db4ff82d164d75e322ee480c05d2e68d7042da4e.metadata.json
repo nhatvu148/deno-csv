@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884888.124474,VS0,VE243",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "5f6d4e3c6a24bb22c5224f02598d2db5bb8f76bb",
+    "x-github-request-id": "4664:5306:341399:3EDE5C:60BB4218",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"2d56cf5e54727b366c1d7dd8cbdbb844542bde8169e28c28e9e1b8d216725e63\"",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/castArray.js"
+}

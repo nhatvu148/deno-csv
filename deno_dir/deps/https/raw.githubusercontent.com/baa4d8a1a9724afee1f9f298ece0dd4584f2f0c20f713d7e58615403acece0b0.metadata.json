@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "etag": "W/\"007620005ec284870ea74b39b02365e3b13aeae185b2784f5911244bf85fb423\"",
+    "x-github-request-id": "0818:0635:3389D6:3E53B9:60BB4218",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884888.229004,VS0,VE239",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "19eb163947b1b95ce8dafcbc1d1556d36ad7e4d4"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/toFinite.js"
+}

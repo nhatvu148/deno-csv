@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "ddd052547c0420ddcee6c7b3f7143db4b76a1271",
+    "x-github-request-id": "1250:0A44:32F802:3DB99B:60BB4217",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.887981,VS0,VE251",
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "etag": "W/\"dc9d2a95d3203fafb87ee0dd9f90e90c88615e2eed7bb98966b2fe8d62de9c74\"",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/xorBy.js"
+}

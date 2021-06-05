@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "etag": "W/\"470298036a97972655ce8031c7c3553c53b40aa257c1fb918909dd8d1063efec\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "c325fdb96a09637781be219593c062cc1b83f049",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "CAEE:3C92:34186:E0457:60BB4217",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884888.943849,VS0,VE245",
+    "via": "1.1 varnish",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/hasIn.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.014989,VS0,VE240",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "etag": "W/\"08b9847b37c10fcee078f8704c36402b23cdc39706ec39ae3d0b9d222f20a13b\"",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "af24db89f4e6c2abf05a790ef1eecf717e87f963",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-github-request-id": "3BE2:0A44:32F83A:3DB9DC:60BB4219",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_arrayAggregator.js"
+}

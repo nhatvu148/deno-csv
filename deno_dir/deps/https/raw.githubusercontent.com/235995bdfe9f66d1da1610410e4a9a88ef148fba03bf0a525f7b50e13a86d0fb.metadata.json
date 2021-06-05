@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"8aa3391fa3fa1f6c1e75a4a4493e3bde743a770a5c54c12f95ad07e120030482\"",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "82C4:4D24:FC4AE:1A89AD:60BB4218",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884889.893508,VS0,VE232",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-fastly-request-id": "bd4a729b3efe91e290585ecaf8f3d142424388ee",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_objectToString.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "560b197a1003fe85ec3a8f1781f6a153862cb8ae",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "etag": "W/\"e6daadbf6d1148e1bbd6018aaa3f78fa7d80a570c8d2af6c57ed59663a389f31\"",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884889.791424,VS0,VE283",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "x-github-request-id": "45D4:0AC4:4B97B:847CA:60BB4218",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseIsMap.js"
+}

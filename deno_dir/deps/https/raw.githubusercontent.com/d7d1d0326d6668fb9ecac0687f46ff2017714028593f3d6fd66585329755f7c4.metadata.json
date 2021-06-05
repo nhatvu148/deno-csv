@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-timer": "S1622884888.870703,VS0,VE238",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "6d26c3a6e757527156b6b603530a3a53bcd9720d",
+    "etag": "W/\"2b97402bc3064120f0ced96a5c5ce5502cfa8363d0c301b45b3e8ba8598c4dc4\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "92A6:0635:3389C3:3E539A:60BB4217",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/range.js"
+}

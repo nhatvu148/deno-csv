@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "0bcf0057a233ca1ffc2c766d6cf072fa5e1790b0",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "etag": "W/\"f567ea5e3f90eb8664cb6075557d4b1dcbe42dc1dd7057cfb8b107a16461a935\"",
+    "x-timer": "S1622884888.229043,VS0,VE236",
+    "x-github-request-id": "D99E:0AC3:D25C8:10B58B:60BB4218",
+    "via": "1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/unzip.js"
+}

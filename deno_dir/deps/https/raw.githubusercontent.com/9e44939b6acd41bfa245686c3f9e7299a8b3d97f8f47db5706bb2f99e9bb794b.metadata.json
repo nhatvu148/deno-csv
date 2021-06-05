@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884888.939332,VS0,VE237",
+    "x-fastly-request-id": "3e2e559b89c952913446f6b2fc9b3382b48e4702",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"9db6f4c011bf7121a011813a516e0c905b0cddb8100ff7dee4dfd15bad51e8d5\"",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "1A1A:3D96:E89C1:194EFB:60BB4217",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/mapKeys.js"
+}

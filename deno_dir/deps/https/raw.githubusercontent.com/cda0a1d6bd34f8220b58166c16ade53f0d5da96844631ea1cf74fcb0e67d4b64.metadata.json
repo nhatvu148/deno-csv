@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "x-timer": "S1622884889.841696,VS0,VE227",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-frame-options": "deny",
+    "etag": "W/\"a408d0e8f6e423678d86bcdcb633057d5b0fb757ad064d79da8fbc1b007be261\"",
+    "x-github-request-id": "2216:0A44:32F830:3DB9CF:60BB4218",
+    "x-fastly-request-id": "80e7265ea2d0907dfa6aff66bd698ced17feecf0",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_customOmitClone.js"
+}

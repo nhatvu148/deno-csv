@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "cfcfe564d93e884cce8da8ca1be2a8857db69512",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884888.229019,VS0,VE531",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "1816:4D25:328673:3D50A1:60BB4218",
+    "etag": "W/\"76aa663b4748a7dd1b9c3b67baf9abe410011b353e078cd9a196ef8c2e2b4091\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/first.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "source-age": "0",
+    "etag": "W/\"4a0adf1b8b21ae5dbe12b022ae2ee242f960049b878c46586287bc99a494c033\"",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.228913,VS0,VE234",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "x-github-request-id": "483E:0A40:EE204:199E2B:60BB4218",
+    "x-fastly-request-id": "d94c5043e28cfed7007ca4147b8b357531f3bd7a",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/iteratee.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "47ce23e72377aa093443cba888568d69ce3023e4",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "x-timer": "S1622884889.753854,VS0,VE254",
+    "etag": "W/\"fd09ef8d576939dc85129dd84884bd62df30d7bb052e55b80486a16f4382d807\"",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "FC32:0AC3:D25EA:10B5AF:60BB4218"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_isIndex.js"
+}

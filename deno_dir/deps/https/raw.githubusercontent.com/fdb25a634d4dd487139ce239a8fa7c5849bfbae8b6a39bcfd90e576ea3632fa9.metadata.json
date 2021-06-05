@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884889.310280,VS0,VE232",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "etag": "W/\"e64780463336e114310a17aa3ce43e59eaf5a5e037a5849eaf874ab2be4c8ea3\"",
+    "x-github-request-id": "7FD0:0AC3:D260F:10B5D2:60BB4219",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "d54007033a14c521326c642d886a73687b740f2d",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_getMapData.js"
+}

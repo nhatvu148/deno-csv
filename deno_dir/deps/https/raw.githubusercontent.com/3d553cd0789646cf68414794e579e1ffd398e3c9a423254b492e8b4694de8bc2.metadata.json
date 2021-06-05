@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.870499,VS0,VE232",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "etag": "W/\"b0272ae10b57e01bcdaa3f1ea553c0fd2c30e89209090fea2cf4bd1ffe651e1f\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "B522:3D94:33EDE6:3EB856:60BB4217",
+    "via": "1.1 varnish",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-fastly-request-id": "7aa86adba7c61ad08694e59ec37d0d5caa7d0cc1",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/toLower.js"
+}

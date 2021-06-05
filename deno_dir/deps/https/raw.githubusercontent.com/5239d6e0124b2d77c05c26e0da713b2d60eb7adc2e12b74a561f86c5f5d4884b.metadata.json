@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-fastly-request-id": "7afe93ef35f4af5dff519b47afd1eae9b5dbb78d",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "5304:3C93:ECBDD:199079:60BB4217",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "etag": "W/\"7a85aaaefad8b2e5abb5f984d248995427b0545a3be243fcd026a9a8105b67db\"",
+    "x-timer": "S1622884888.598050,VS0,VE251"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/ceil.js"
+}

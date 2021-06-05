@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "5202:3C94:33BE64:3E88B3:60BB4219",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "via": "1.1 varnish",
+    "etag": "W/\"ea6f4a1321f41f5c0d92cd53c068a61d7ad9de0020df3760671113ff077162d5\"",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.110729,VS0,VE223",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "f70c985ccf06d060d488561ee4f55cfa8c06e666",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_isMasked.js"
+}

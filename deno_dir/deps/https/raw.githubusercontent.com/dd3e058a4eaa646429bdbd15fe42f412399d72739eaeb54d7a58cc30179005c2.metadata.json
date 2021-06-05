@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884889.817731,VS0,VE226",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "696C:0AC3:D25ED:10B5B3:60BB4218",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"e983526676a9c44e39a5e942eba3a8b729bea8a0dc2248860dc13b2e90d72cae\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "a17e18826208ab19ce7a080134ac9e7debaeebba",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_reEscape.js"
+}

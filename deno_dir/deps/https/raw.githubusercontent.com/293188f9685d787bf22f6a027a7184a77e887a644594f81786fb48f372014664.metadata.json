@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "etag": "W/\"6fa3afa301e6daeb928262f8a3772e19f23075f7667b2b4a7827c47131ae8933\"",
+    "x-timer": "S1622884889.000272,VS0,VE233",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "c76c801827d37ae4bd13e0c3eb2e90b5cdf884a5",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "C78E:0635:338A13:3E53F1:60BB4219",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseSortBy.js"
+}

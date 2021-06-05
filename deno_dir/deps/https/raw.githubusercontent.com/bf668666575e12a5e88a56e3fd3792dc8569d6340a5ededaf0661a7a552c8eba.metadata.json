@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "8BE8:0A44:32F840:3DB9E3:60BB4219",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-timer": "S1622884889.106734,VS0,VE229",
+    "etag": "W/\"a7863223a48875306bb1c29f0bb259749f0798f745882af4b1a6c2989f74ee6f\"",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "703046af5a50209914fd4164a8d4dadb09797c8e",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_composeArgsRight.js"
+}

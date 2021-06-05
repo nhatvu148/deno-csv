@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-timer": "S1622884888.124458,VS0,VE279",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "9ccf9eec92636b182531679771af8ff8e5033e9d",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-github-request-id": "646A:3D94:33EDF1:3EB86A:60BB4218",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "via": "1.1 varnish",
+    "etag": "W/\"3183ee7759144c387b45ac286e6066db567e293aff2a5e92757d456ffadb6a63\"",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/differenceBy.js"
+}

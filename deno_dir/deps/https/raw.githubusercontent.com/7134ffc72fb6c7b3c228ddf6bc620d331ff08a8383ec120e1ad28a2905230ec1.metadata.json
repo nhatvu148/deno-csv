@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"2b56b58bc4be24c6baa1251aa176d60bb1945ee3e210c3565f982ba3362347f4\"",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "5216ed6f46839946bcd328b809944a2ebce28f5e",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "2270:5306:3413EA:3EDEAB:60BB4219",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884890.549399,VS0,VE242"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_isKeyable.js"
+}

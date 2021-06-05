@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "376ca7a552ef34bcc169efb855d07d78e8689fc6",
+    "source-age": "0",
+    "etag": "W/\"6175a7c05e890ad60c96c113552feb703127ac1eaa3a4e20de7b498b441235d3\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.466192,VS0,VE233",
+    "via": "1.1 varnish",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-frame-options": "deny",
+    "x-github-request-id": "B9F8:0AC3:D25D4:10B595:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseUnary.js"
+}

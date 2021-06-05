@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "FD0A:0AC3:D25EB:10B5B1:60BB4218",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "accept-ranges": "bytes",
+    "etag": "W/\"bf4431a94e5928bdbb5d00e63ca41f74ee1a3aafe744b1507e174bf88450ff18\"",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "e1c1a42ea93d9653f543b9f633aeec107e7d2e50",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884889.775339,VS0,VE246",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseDelay.js"
+}

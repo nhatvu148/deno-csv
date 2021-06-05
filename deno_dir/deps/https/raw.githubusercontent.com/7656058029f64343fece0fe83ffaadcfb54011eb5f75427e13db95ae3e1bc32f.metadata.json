@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "8e3e1e9e887d3fc052feb87dc22237e98c01f385",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "3BE2:0A44:32F7F3:3DB990:60BB4217",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"80b02085608b4b17c5b47e0467a3a4f7fd843c022e53dac931eba5a5a7389e65\"",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884888.597921,VS0,VE255",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/stubTrue.js"
+}

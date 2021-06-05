@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "etag": "W/\"5df8cc1c74b31a1ab886b95db7eed6e338d478a0204e1b19417b0e691f68c3af\"",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "82C4:4D24:FC4A0:1A899D:60BB4218",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "x-timer": "S1622884888.135365,VS0,VE230",
+    "x-fastly-request-id": "71a99bf918f45035d33be4acc526792d1c46aa4f",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/unionBy.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "via": "1.1 varnish",
+    "x-github-request-id": "97E0:0A44:32F850:3DB9EE:60BB4219",
+    "x-fastly-request-id": "087964532f33875f67fd38d501afd3a6642a5b74",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884889.442062,VS0,VE239",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"5d19c3e0d96df0ae5d35c7cd7a9ac90cebd0da477854d66d8e283f8f7ab69cb4\"",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_listCacheClear.js"
+}

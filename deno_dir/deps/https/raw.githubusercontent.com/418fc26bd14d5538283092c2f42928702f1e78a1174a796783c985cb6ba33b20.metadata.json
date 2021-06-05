@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"6ff3bc0f4231a54a54efa532e3025cf0cc5b561fa9eacc41d253f32a61a4af19\"",
+    "x-timer": "S1622884888.598251,VS0,VE266",
+    "x-fastly-request-id": "70c28ec6b0510455231c94c94641f007154c387f",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-github-request-id": "1C3C:5305:E63EF:1928F7:60BB4217",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/assign.js"
+}

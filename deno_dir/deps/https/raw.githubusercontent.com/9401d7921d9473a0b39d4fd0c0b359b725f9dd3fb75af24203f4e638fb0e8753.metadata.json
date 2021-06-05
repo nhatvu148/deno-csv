@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "889ecc328e7ae2bde3cd2c12430e8c2fb8152b17",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"35bcd5a17d022216d52453970ed5321e78ad9355866283a54b4851ef6c76cacc\"",
+    "x-timer": "S1622884888.404570,VS0,VE230",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "2F8A:0AC3:D25CF:10B593:60BB4218",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_arrayMap.js"
+}

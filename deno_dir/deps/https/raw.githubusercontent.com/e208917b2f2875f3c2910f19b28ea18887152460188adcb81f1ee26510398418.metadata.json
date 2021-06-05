@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "f6e24268f3daf148a7416c8d5363cce667db7878",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "F8BC:0AC3:D25BC:10B57F:60BB4218",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-timer": "S1622884888.108035,VS0,VE227",
+    "accept-ranges": "bytes",
+    "etag": "W/\"f7a3454511cefb25bb095323ec521e9b086ff65f7242cb93a7d0b1419afb3da7\"",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/valueOf.js"
+}

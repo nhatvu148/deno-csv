@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"157441732044cb117f322d7b6fe9e7b8b34b368d067253956180f18137046457\"",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "15391f2b0a6e6bcd2b92751eb346dab7a5a9eaed",
+    "x-timer": "S1622884888.597989,VS0,VE253",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-github-request-id": "683C:0634:EBA4C:197F5F:60BB4217"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/throttle.js"
+}

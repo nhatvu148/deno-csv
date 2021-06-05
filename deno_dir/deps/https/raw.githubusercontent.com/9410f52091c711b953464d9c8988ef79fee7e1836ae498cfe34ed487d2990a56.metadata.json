@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1622884889.014977,VS0,VE263",
+    "x-fastly-request-id": "bc0cf13d09dde385d3c4f8200518e748dd1ea5f3",
+    "etag": "W/\"1a03017c802dde0b8ade327ec14a00b702ef3d924a923fb24d59a17640b9feea\"",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "0C26:3D94:33EE26:3EB89E:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseToPairs.js"
+}

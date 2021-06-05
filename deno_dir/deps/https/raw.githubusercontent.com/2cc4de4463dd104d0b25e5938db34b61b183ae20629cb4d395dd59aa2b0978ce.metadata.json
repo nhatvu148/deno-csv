@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.598216,VS0,VE254",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "etag": "W/\"7dc467235f0a3b68b0859e65a36073040e1103bb9ff35b33d2a0d349541928fa\"",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "x-github-request-id": "9B1C:0635:3389AE:3E538E:60BB4217",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "63613dd0bfa4a5cc58f26e36a57c6ed2e45d8686",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isWeakMap.js"
+}

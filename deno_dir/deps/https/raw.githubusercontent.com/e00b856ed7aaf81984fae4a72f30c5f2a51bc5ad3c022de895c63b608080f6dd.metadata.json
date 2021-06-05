@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "source-age": "0",
+    "x-fastly-request-id": "9fd38d558a3af9af38d8fbf3e8800c6b4133c634",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"df85474b982bea46965ef0f3ed728b685069cca4f9f5dd97a2518c96c877e984\"",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "4EBC:5305:E63EF:1928F5:60BB4217",
+    "x-timer": "S1622884888.598129,VS0,VE261",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/split.js"
+}

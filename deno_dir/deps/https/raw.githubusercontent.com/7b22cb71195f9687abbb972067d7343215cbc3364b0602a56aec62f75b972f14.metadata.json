@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "etag": "W/\"a650d5de90d9db64582343db6100c35c1b67c2425b0e031177ae9c697c1ac3df\"",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.242969,VS0,VE230",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "83EA:5306:3413DD:3EDEA2:60BB4219",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "3ed966fea1bfbc68475903edc7d59a4b4c8fbee8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_getWrapDetails.js"
+}

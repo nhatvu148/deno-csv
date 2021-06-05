@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"aa1b2d5ccc7dfd2696de9ae21029bf494dcbcb7209b087ea76c1389cd5d670e6\"",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1622884888.597948,VS0,VE295",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "ef208a68f1cead3ba7861046450f69e14455f5bb",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "BC42:0635:3389AE:3E538D:60BB4217",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/update.js"
+}

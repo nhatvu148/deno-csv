@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"93c5aac93abecbb7de61f6f0302e92ccb872a46772b22c1629bd976153651a3b\"",
+    "x-timer": "S1622884889.983439,VS0,VE241",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "5713764c9fa72019ea0bce8e66b60e4dd6e56627",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "B9F8:0AC3:D25FA:10B5BF:60BB4218",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_createPartial.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "E148:0635:3389C5:3E539E:60BB4217",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "etag": "W/\"fc0fac85f786b473d68dbd0ab3d18a8ca25df2322016cad1f8e9236329fe8006\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.939141,VS0,VE241",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "7dbe6687bc7f4f9873ea93e1546862302c05d92e"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/subtract.js"
+}

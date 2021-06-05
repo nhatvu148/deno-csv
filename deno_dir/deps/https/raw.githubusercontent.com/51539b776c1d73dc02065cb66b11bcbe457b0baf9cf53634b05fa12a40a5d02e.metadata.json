@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "etag": "W/\"e45e9de6d50386b6d315c2f295087b069ecef9506a9498328e4fa6126e8d48e9\"",
+    "x-timer": "S1622884889.983428,VS0,VE236",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "c419c46087deee9b6979d6572d87bb49f0f3e107",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "FDAE:5306:3413CE:3EDE8C:60BB4218",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_mergeData.js"
+}

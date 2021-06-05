@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "8BE6:0AC3:D25F9:10B5BE:60BB4218",
+    "x-timer": "S1622884889.974849,VS0,VE240",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"d85fb59a8494edabc301e5ca3f02b4d7b86e84435213c3e926a94e499e72c87a\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-fastly-request-id": "4792c18c2f0f9824f1c9c69940d47e1eb61858df",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_arrayIncludesWith.js"
+}

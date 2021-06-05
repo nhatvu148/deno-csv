@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"2ac9d404b4bc46f71c5cf6a0f46312dc6aa1d0a69357c8eb116436aa74925df1\"",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "550C:0A40:EE212:199E3A:60BB4218",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1622884889.977738,VS0,VE237",
+    "x-fastly-request-id": "9ac7442955f240981ba9ef06e7e4d6b69cd0a41c",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_cacheHas.js"
+}

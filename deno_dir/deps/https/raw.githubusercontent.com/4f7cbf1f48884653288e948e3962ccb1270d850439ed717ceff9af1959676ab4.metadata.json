@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-timer": "S1622884889.992136,VS0,VE239",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "202c2fe05d5b68c14968a42ee2abd0e6ed8d64cc",
+    "cache-control": "max-age=300",
+    "etag": "W/\"2afc3d60c130d47cf7b328a864e2fe056866467ce0a8203ae73f454291990bc5\"",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "0828:0AC3:D25FA:10B5C1:60BB4218"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_setData.js"
+}

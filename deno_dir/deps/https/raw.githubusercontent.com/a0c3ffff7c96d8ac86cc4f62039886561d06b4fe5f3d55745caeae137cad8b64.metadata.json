@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "D99E:0AC3:D25FF:10B5C6:60BB4219",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "accept-ranges": "bytes",
+    "etag": "W/\"7a41cd1ccc449c71642353adceff69cf0fe8b610992174b26ba6cc35b0f799b5\"",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "8145ab6266b898d9d4023c6ab620a1f749601eaa",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884889.079773,VS0,VE241",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseIndexOfWith.js"
+}

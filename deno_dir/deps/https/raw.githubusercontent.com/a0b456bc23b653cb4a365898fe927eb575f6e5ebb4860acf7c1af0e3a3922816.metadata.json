@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-fastly-request-id": "2fb8b02ccc4c22c7be67482b2ad3136402579961",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "E8FC:5306:341384:3EDE39:60BB4217",
+    "via": "1.1 varnish",
+    "etag": "W/\"a2fc500739c3b1d503b6b8f394cdd9a4cc6d56fb154e0440fa12655bf9ce66c3\"",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884888.597570,VS0,VE246"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/findLastIndex.js"
+}

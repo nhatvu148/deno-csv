@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884889.926158,VS0,VE235",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "67a23b5f04995eea97e19bd2c414cf04bface9f7",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"001e064997960e2b9c1b774a9c40c0be572e0bf047f34148b74faeaf3fa81e71\"",
+    "via": "1.1 varnish",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "source-age": "0",
+    "x-github-request-id": "59D8:0AC4:4B97D:847CE:60BB4218",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_initCloneByTag.js"
+}

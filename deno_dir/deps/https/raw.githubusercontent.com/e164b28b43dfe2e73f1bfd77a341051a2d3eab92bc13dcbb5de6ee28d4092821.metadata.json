@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "etag": "W/\"4f061f8b4ec0a3a05682cb80706a017a42967a23b1489b0376d2cccc0ca07415\"",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1622884888.488752,VS0,VE228",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "aee1df495a072025cea7680637b5d73ad171da0a",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "1FAA:3D94:33EE09:3EB883:60BB4218",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache-hits": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseUniq.js"
+}

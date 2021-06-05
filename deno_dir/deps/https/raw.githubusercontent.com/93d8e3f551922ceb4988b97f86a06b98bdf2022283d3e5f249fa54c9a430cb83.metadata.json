@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "etag": "W/\"35241016cdbe880780c5c57c7fbf5f119738cda9c9c82c8042b8a76a3bdf1c61\"",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "37a2e7782f3fffbf4b1afc31dfb9e836434d8c7f",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884889.637974,VS0,VE231",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "1EA2:4D25:328688:3D50AE:60BB4218",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_isPrototype.js"
+}

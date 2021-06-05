@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "FD0A:0AC3:D25A2:10B40C:60BB420A",
+    "x-fastly-request-id": "25262def94860bc14efa345e2c23f9f23dedc1e6",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884888.597778,VS0,VE249",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "etag": "W/\"fd867343c45f8e9e726c0326690790b9c18b8ba31f33fe242fbf6fca70fb49f7\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/find.js"
+}

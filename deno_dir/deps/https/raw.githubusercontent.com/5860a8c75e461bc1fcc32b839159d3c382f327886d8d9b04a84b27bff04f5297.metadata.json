@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-github-request-id": "E148:0635:3389AE:3E5385:60BB4217",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.598272,VS0,VE244",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"516ef7817655b1969d5d0734d9b0539e145cffa7ad5591217d72a1ef987e0d9c\"",
+    "x-fastly-request-id": "1b2205517093f595ea47512a1b18cb58b5d79f24",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/minBy.js"
+}

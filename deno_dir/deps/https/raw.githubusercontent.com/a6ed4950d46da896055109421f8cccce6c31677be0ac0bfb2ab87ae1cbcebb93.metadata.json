@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884889.652268,VS0,VE248",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "3184:0AC3:D25E0:10B5A6:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "etag": "W/\"40a082062c56e98667453029270a23a9de6fc3815dd9c113722ac6069bf20c25\"",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "465a1639e7c5d12300962db2acb23862beba59bd",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseSample.js"
+}

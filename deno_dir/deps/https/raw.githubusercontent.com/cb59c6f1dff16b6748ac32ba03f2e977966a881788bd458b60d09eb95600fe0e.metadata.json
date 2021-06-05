@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "1FAC:0A44:32F822:3DB9C4:60BB4218",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"36d6cbf5619d643f97bea94d908c6d3646f670645231c87cd15175009f876281\"",
+    "x-fastly-request-id": "94462971f8249bcc71bbde4c90b57692dbd2b09a",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.535106,VS0,VE227",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseGt.js"
+}

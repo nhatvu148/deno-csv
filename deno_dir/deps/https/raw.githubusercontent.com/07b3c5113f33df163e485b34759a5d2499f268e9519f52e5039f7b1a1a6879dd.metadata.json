@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "9AA6:5305:E640B:192919:60BB4218",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "9fbd8c8142c2914d9434396cd30ff7a9a13229aa",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884889.746397,VS0,VE272",
+    "etag": "W/\"fd541c8e6c75d75ebf91830316c8e7d23b2be2a93432310217a5e8e697e27510\"",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_basePullAll.js"
+}

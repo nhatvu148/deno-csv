@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"ae449449220f67738d15d3ae86477ad55d81cee02b0a0e238300d5541750be86\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-github-request-id": "C704:0AC3:D25CE:10B590:60BB4218",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-timer": "S1622884888.380093,VS0,VE246",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "200117eda5c2415406be391da0c8751d329f2d92",
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/forOwn.js"
+}

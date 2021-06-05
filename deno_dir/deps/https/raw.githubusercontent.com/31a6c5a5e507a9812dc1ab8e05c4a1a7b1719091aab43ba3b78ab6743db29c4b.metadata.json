@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "x-timer": "S1622884888.124442,VS0,VE239",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "x-github-request-id": "2F8A:0AC3:D25BE:10B582:60BB4218",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"3ac88c99b10eacdbf52b928350c84f23c2cfc83ab10afe6c0291e4bd8b9854b7\"",
+    "x-fastly-request-id": "72d8910b5c3c770c4ea933ccace8d8defc66676f",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/max.js"
+}

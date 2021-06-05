@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-github-request-id": "43E0:3C93:ECBDD:199077:60BB4217",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"2d7ab7a6b8878f631d54ab7d8b6fc8c4283beca46b1e9d3ececb26df5d10fbb6\"",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-timer": "S1622884888.597552,VS0,VE245",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "864900130b313568659f93ee45b195cdef2c68ca"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isSet.js"
+}

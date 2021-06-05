@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "etag": "W/\"e43974028ee757fcf78a95ac9280136538f0306ef70b3dc03780440c27cf0db7\"",
+    "source-age": "0",
+    "x-fastly-request-id": "13bfaab72f3c836da687f092936c1fe3ec2ab502",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "579C:0AC4:4B96F:847B9:60BB4217",
+    "x-timer": "S1622884888.597964,VS0,VE259",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isPlainObject.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "bb2d4b25594db10531ee39b63fbb637d744cf665",
+    "x-timer": "S1622884889.314946,VS0,VE239",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "etag": "W/\"eb994687cb25b2ad1c03b407ac024928444aebe64ba42adc5d170f1bf4066c2f\"",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "48AA:5306:3413E1:3EDEA6:60BB4219",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_Hash.js"
+}

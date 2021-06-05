@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-timer": "S1622884888.597575,VS0,VE249",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "741651c711cc791702daf3b3b51f7d28990a1a24",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "etag": "W/\"fe43d3a00cc713218bfd40d23993d13a914065f284b977aba938573a0313903f\"",
+    "x-github-request-id": "82CE:4D24:FC499:1A8992:60BB4217",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/chunk.js"
+}

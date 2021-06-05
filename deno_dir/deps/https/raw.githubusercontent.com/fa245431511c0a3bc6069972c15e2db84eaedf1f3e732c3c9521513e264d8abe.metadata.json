@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "2f99b55f5929ce69f39351ee4f8423e507cd755b",
+    "etag": "W/\"bb76cb667e2f4f331e20552710158f683356f00bf6ac2988a2f3b16847d2bb97\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "E05A:3D94:33EE17:3EB897:60BB4218",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884889.775346,VS0,VE240",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_MapCache.js"
+}

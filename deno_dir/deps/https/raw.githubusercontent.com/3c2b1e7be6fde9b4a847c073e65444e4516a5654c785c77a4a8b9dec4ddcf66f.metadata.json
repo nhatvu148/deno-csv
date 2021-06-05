@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884889.874575,VS0,VE239",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "B9DA:0AC4:4B97D:847CC:60BB4218",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"8b14c9dc18744eaa363017a7d0d607da9c2f5e89c4fc3609dba6465643056eca\"",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "54c03c52603c5a3adbb069ea7d1a09a729bbc0f0",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_basePropertyDeep.js"
+}

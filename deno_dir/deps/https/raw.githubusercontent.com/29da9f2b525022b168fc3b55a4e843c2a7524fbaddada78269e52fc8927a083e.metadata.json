@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "7082:3C93:ECBE5:199087:60BB4218",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-fastly-request-id": "4f01e1a5ed0e2153bf3e35005122029fe433e094",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "etag": "W/\"f249bfb00f36835ce579899df6b63369936021809dc7975154a56882c7f8d981\"",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-timer": "S1622884888.131402,VS0,VE235",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/takeRightWhile.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-timer": "S1622884888.597984,VS0,VE262",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "75BE:3C93:ECBDD:19907B:60BB4217",
+    "x-fastly-request-id": "af434ece5eb470899938a06d605df3206d4484d3",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"115b448e20a40400e96e5c02b5189776004d558274c3c32e83afea7932d273df\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/sortedUniq.js"
+}

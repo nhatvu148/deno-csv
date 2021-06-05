@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "374d4688223261e33c43ba4be662a8d85407baf4",
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "etag": "W/\"58ee404a5e1bae03ca2ed85cd5e1fd9d75e3b28a9aaa1857dc293424a4afc357\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "4284:3C93:ECC04:1990A7:60BB4219",
+    "x-cache": "MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.223324,VS0,VE231"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_setCacheAdd.js"
+}

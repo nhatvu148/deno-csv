@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "etag": "W/\"8ab9fd68f9fd396e51cb0076d7c6b7368d031084024036f6fd5666efad99b385\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "x-github-request-id": "0812:4D24:FC499:1A8993:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-fastly-request-id": "3f28c5e227d0aa21eb7bb74526fc14aea7961a56",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-timer": "S1622884888.597937,VS0,VE257"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/lowerCase.js"
+}

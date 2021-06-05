@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"29d10c622850d1439221994aef05fb7f5ee50a2c46e756e4c5d94a0b46ab78c4\"",
+    "via": "1.1 varnish",
+    "x-github-request-id": "E8FC:5306:341395:3EDE4A:60BB4217",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.870544,VS0,VE281",
+    "x-fastly-request-id": "63050d1160932143efc0b4ecf53def7355df38eb",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/intersectionBy.js"
+}

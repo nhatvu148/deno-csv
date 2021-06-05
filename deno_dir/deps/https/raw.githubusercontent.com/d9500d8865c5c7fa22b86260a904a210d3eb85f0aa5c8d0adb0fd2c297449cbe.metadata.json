@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "etag": "W/\"a7661a228f135cebd8ea099b9616cac29ae2186beb4b3761af718a395944d0bf\"",
+    "x-timer": "S1622884889.871501,VS0,VE229",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "E1D2:0A44:32F830:3DB9D1:60BB4218",
+    "x-fastly-request-id": "ca6b697e6f9f404447ae57b89cc0d17906b57dda",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_basePick.js"
+}

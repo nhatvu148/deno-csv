@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "etag": "W/\"16eb9e464d8fb01358fd4007317286e7ac4c175cab6ac9e94342254b44f44d37\"",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-timer": "S1622884888.172225,VS0,VE237",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "0E7C:3D94:33EDF1:3EB86E:60BB4218",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "eefcc75bd1f4e31e7f8ea606a676a143be2190a7"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isArrayBuffer.js"
+}

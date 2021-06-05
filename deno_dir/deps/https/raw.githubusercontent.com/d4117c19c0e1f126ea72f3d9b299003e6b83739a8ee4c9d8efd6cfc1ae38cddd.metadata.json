@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "579E:3C92:34181:E044E:60BB4217",
+    "x-cache": "MISS",
+    "x-timer": "S1622884888.598314,VS0,VE274",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "2b1228669591a3341663cd5de7ee395db920b5df",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"378f6893867363df7dbe249c93ee6a4bb702e4deefd8d1da6f3dc05702bae8fb\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/before.js"
+}

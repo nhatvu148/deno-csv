@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "969011e911c95ca186b9db9599abdadd6e456a22",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "x-github-request-id": "F792:5306:3413A3:3EDE5F:60BB4218",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1622884888.190367,VS0,VE238",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "etag": "W/\"4d343cd0d751a43351a1313f162c495a5734dead37d5e146f0f32d38f9d319fd\"",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isMap.js"
+}

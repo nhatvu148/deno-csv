@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "F792:5306:341396:3EDE55:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"e4929ce103186cb936b2572df24df0ec70a5c1c4ec5eefd5c8884cc8c2f88500\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.939186,VS0,VE236",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "d8eaade40619bc321a8cf463b64f031febf99b15",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/padEnd.js"
+}

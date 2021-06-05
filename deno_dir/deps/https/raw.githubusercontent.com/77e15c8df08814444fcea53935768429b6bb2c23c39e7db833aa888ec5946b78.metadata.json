@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-timer": "S1622884890.576567,VS0,VE241",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "a5afc8f5f9000c930afcdf817d12ed431b597657",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"aa38d106ea568527a7a1fe2415eb98f33c79f7d60fdb1deae6bc48f46b4bbd5e\"",
+    "via": "1.1 varnish",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-frame-options": "deny",
+    "x-github-request-id": "FDBA:0AC3:D261F:10B5DC:60BB4219",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_hashClear.js"
+}

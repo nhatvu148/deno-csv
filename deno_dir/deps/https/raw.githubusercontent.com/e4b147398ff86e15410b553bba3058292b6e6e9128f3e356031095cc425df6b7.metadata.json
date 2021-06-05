@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "4EBC:5305:E63F7:192901:60BB4217",
+    "x-cache": "MISS",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"30969d21e5a33e4c677354cb9cb91ba40af4ea18e3df82dcbd5eac6486a69ccd\"",
+    "x-fastly-request-id": "d8fdf62798838525ff2232e52b66c48a9be4f1cb",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884888.939087,VS0,VE244",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/curry.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-timer": "S1622884888.597613,VS0,VE260",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "91ee536a8624533d409e18181539db1788798dd5",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "4094:0635:3389AE:3E5389:60BB4217",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "etag": "W/\"33e3ff23576899c1ff69f2aebdbb7debbabfb4d68e4f36c1e286dd17e5127377\"",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/every.js"
+}

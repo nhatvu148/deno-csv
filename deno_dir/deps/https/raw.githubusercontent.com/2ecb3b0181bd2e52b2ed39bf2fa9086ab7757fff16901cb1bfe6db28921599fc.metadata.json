@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "A5A2:3C93:ECBEE:19908D:60BB4218",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1622884888.369056,VS0,VE257",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"254bf7850410155f4c05434f76792250639c38dfa0bff10d024ec6991f1f8398\"",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "90a9ba65781a6efc83a8e3b31c3bbe15ba09e096",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/constant.js"
+}

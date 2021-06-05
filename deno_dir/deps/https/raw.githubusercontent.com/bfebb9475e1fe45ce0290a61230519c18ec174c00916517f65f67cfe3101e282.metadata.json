@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "2F70:0635:3389FD:3E53DD:60BB4218",
+    "x-timer": "S1622884889.745087,VS0,VE233",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "etag": "W/\"7a7c94cc57b94e6d4bd68b9abce134924c6d325e0725adaaead489ac7e506c05\"",
+    "x-fastly-request-id": "354a8ce3076ff5c7df0bedbf1f13d281b5fda3d9",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_createPadding.js"
+}

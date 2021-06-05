@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884888.473486,VS0,VE247",
+    "x-github-request-id": "3CA8:4D24:FC4A6:1A89A6:60BB4218",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"84150ee19b8942776455818ac6411a60e57b56fdac5f5e5dc8521223f5dc30cf\"",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-fastly-request-id": "fb5d6a607abb611e26c5c54ade83459780dfcd8f",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_createAssigner.js"
+}

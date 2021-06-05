@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.195421,VS0,VE239",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "dd72ac422fe784eeb057d88636de9a09cdc7dc0f",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "etag": "W/\"20b14c2367f5698dddd89e3fbc2cc3a297af85668e78a0a4f7168cbdaeacc167\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "1FAA:3D94:33EDF7:3EB874:60BB4218"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/pullAt.js"
+}

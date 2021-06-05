@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "etag": "W/\"83fe7ddf2b4827a1e8f7df7a08040c294d2a5762ac9ba126e84d732dcbb97263\"",
+    "cache-control": "max-age=300",
+    "x-timer": "S1622884889.962618,VS0,VE258",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-fastly-request-id": "46ddea7c79df99de654caf09bcde925227b81760",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "9F4A:0AC4:4B97D:847CF:60BB4218",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_getAllKeys.js"
+}

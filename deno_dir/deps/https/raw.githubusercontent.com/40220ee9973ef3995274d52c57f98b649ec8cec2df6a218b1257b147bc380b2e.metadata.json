@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-timer": "S1622884889.581358,VS0,VE239",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "8d3224b44fda11af746ad80730a1b8cd0345c38e",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "x-github-request-id": "966A:0632:C8A5:B8B80:60BB4218",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"3be0b6b6721f334d8a39913b6c2679bb0de4d1b57e44a3fe332513dafde5249c\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_hasUnicode.js"
+}

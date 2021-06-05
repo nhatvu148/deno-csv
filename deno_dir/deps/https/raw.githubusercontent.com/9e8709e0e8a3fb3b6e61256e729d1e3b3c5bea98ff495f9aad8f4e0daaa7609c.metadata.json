@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"8ab9344740543c1fce7f1ac7632de8ca7e6591ab4caf1f99b1bba5060bd2894d\"",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "AC9A:5306:341384:3EDE43:60BB4217",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884888.598091,VS0,VE246",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "a7e4d9636f7deb9d0ccd7c4dffc6f7abee31cbe7",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isNull.js"
+}

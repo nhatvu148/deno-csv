@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"6956302d4a7a92c035a2bc0c767606014e0ad7ed27d17b562a52b477e51e6d7a\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "6139eb570005dddb6417a058e73b7c837a8027a8",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "9126:0A44:32F7F3:3DB989:60BB4217",
+    "x-timer": "S1622884888.597741,VS0,VE250",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/union.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-github-request-id": "9636:5306:3413CD:3EDE8B:60BB4218",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "etag": "W/\"8122c682f6d88cdf2c033306d458157db0066dcd64f101360a3f38f4f7c086ee\"",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-timer": "S1622884889.978828,VS0,VE230",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "3bf35fcb1648fa3a763df175e1485adc54cfe08b",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseIsEqualDeep.js"
+}

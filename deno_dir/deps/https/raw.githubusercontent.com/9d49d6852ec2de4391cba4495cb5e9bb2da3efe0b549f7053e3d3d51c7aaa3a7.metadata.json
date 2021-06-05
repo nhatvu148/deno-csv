@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-timer": "S1622884888.190354,VS0,VE247",
+    "etag": "W/\"c65db09d30c60cab9c93caf441abcde7fd91da1aaf6315e2c53f43ec756ff9d5\"",
+    "via": "1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "B6AE:3D94:33EDF6:3EB871:60BB4218",
+    "x-fastly-request-id": "0710a2fd2057b119e864b58a3f70fba45986184b",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/meanBy.js"
+}

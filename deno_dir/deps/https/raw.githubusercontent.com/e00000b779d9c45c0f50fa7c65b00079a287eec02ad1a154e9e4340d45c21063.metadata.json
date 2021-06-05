@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884888.597750,VS0,VE255",
+    "etag": "W/\"20ac5c417018aa777b114c8e1b53b5dea7ccb6ee20c9e5e0e40092e9031a9e00\"",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "2b99c8599042f3995f34caede3061fdf79aeaa97",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-github-request-id": "B430:3C92:34181:E044C:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/takeWhile.js"
+}

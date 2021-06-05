@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "BCDA:4D25:32866A:3D5088:60BB4217",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "x-timer": "S1622884888.938924,VS0,VE231",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"5cb966c98311407b5fc29e1da1d3d7904b1f86c7cbf44507e2ee21cfab56e06e\"",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "ddd59d95e780351409704a8226d718675873239d",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/unary.js"
+}

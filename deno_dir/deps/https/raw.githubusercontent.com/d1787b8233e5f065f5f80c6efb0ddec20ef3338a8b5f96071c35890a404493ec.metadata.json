@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884888.598373,VS0,VE231",
+    "etag": "W/\"aadd2411ff04e0b7dd61df95ca36154f1692abc9fd2d19a0bc8a35615150a730\"",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "24f9ebd7dcc1af4335ec33771a54b0ef8d0ab5ee",
+    "x-github-request-id": "90A0:4D25:32865A:3D507C:60BB4217",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/concat.js"
+}

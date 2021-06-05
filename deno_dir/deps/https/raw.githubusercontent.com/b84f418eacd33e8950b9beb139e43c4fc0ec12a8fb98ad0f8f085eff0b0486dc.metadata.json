@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "etag": "W/\"39aa7278078a9aba0f60242795cbbc80a27f73d6f12773a00a60b8ef0fe2cf3e\"",
+    "via": "1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "x-fastly-request-id": "09889dc022589fb3cd9d13d053f8b3124390b6a8",
+    "x-cache": "MISS",
+    "x-github-request-id": "7FE6:0AC3:D25B4:10B579:60BB4217",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884888.939123,VS0,VE246",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/rangeRight.js"
+}

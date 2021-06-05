@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "94bb56385e58f7afa89abb4eff06c85069c1247d",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.229025,VS0,VE273",
+    "x-frame-options": "deny",
+    "x-github-request-id": "E08A:3C93:ECBEA:19908C:60BB4218",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "etag": "W/\"baf49f18950f0a62457828a449b03af37e5bf854cf1f292a486145f93ca7191f\"",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/set.js"
+}

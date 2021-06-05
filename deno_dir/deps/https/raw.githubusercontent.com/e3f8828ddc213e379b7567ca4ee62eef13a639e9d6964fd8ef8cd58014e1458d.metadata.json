@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "798f88107064f753b37a26d49f17e9fc746cb923",
+    "x-timer": "S1622884888.597956,VS0,VE266",
+    "etag": "W/\"887a130bc2db1c430a0f22e605bf512b80269ebd4d88eb4a40e23c1018769b35\"",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-cache-hits": "0",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "FDBA:0AC3:D25A2:10B562:60BB4217",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/xor.js"
+}

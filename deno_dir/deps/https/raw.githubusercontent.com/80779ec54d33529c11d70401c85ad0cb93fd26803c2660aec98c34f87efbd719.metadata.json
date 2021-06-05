@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1622884888.478670,VS0,VE269",
+    "x-github-request-id": "FD0A:0AC3:D25D6:10B598:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "ecc4b0a1bec7c29ebd7a09f10f92cca4362f64b6",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "etag": "W/\"87eef11a04e6510231b7c8abb8e44ec9136ea88e5e73725cffc0cf3dd2a84c9d\"",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseSlice.js"
+}

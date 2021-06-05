@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"19fe43b00e4622d977f9b4ec9c39a00e2242bfce3914d821a9ed0cad5761f74d\"",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-fastly-request-id": "a8d2010fe1ae6148b2847fb3138b9e61ad042061",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "x-github-request-id": "B000:0AC3:D25A2:10B55D:60BB4217",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.597595,VS0,VE290",
+    "source-age": "0",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/findKey.js"
+}

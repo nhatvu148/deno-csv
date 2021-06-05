@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "8a6811cfec7fea3d67e67816acf365abe67fac58",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884889.885428,VS0,VE234",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "E34E:0635:338A04:3E53EA:60BB4218",
+    "etag": "W/\"10b10d6a681e45ec45ae0a02a3bc0785b65d844cc259d500ad251a9430a281c4\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_deburrLetter.js"
+}

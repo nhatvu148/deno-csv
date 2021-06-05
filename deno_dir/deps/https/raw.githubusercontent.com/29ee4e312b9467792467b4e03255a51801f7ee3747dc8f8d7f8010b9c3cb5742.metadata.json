@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "4248:0AC3:D25BE:10B584:60BB4218",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "eebcf7c495fabd1bc50665d288bf02c77e199aea",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish",
+    "etag": "W/\"a72d59cfed2c4c2082eb0d80b4127e7bf0c9cc345cc0d7f831d2aad6fd4981c8\"",
+    "x-timer": "S1622884888.149648,VS0,VE241",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isObjectLike.js"
+}

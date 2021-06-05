@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0",
+    "etag": "W/\"a3b72d741c4db5d0d85297c513c696d6eed14e0427e7dbfb2b0256d4d906aec1\"",
+    "x-timer": "S1622884889.644771,VS0,VE234",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "9d66341870ece9f7ccac80b4b1cd8c600a621944",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "82C4:4D24:FC4AA:1A89AA:60BB4218",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseFindKey.js"
+}

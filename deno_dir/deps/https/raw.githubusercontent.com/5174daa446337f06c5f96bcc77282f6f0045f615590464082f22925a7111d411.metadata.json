@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "8286:3C94:33BE58:3E88A6:60BB4218",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884889.826433,VS0,VE224",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"baba935f9c9f3079c453b431c51922f6462dec1a775d4a63934a67155e14c081\"",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-fastly-request-id": "1193256945b0f259c1e9a4a297b402c43879298a",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_reEvaluate.js"
+}

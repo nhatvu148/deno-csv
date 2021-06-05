@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-timer": "S1622884889.169813,VS0,VE271",
+    "etag": "W/\"2f13e2eca42dc76b5b0101853dee39855f21482d032d6fd90481ebfb68e3c4c9\"",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-github-request-id": "CB3A:3C93:ECC04:1990A6:60BB4219",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "c950c2cc7b550ad53c7afc619ee31dd5f05c2e7a"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_cloneDataView.js"
+}

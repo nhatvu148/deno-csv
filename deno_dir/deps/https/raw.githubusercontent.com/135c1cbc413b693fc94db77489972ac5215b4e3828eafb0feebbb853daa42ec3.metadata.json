@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "x-fastly-request-id": "5e1392721626e8718a2f9bcbaae20fbec23e79d4",
+    "x-timer": "S1622884889.728847,VS0,VE303",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "D07A:4D25:32868D:3D50B3:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "etag": "W/\"067fcd51629ab32d4353b54ee34d309308084340940d2e4192c8b0551847cc46\"",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_createHybrid.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "9F40:5306:3413CB:3EDE8A:60BB4218",
+    "etag": "W/\"2abe7ee0477dcecc222c530ac366d1b9b1bdcb312939486f334e5e388359205e\"",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-fastly-request-id": "a8eb293adde69a754a6d882d623783974bfb6e7e",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884889.949835,VS0,VE246",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_Stack.js"
+}

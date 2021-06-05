@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "ee570092b89570951a5418434a8a41167ef7e945",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "E08A:3C93:ECBDD:19907C:60BB4217",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-frame-options": "deny",
+    "etag": "W/\"556ecd1ddd13b5011296c59bf65b267c11b8229f23f2687c255189c5dec49092\"",
+    "x-timer": "S1622884888.598358,VS0,VE271",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/propertyOf.js"
+}

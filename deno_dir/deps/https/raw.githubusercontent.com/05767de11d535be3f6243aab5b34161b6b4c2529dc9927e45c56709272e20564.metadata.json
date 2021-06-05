@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-fastly-request-id": "9a5c0276355d8e2bb30bd031343d1aa1b538fd75",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "etag": "W/\"f3c01ff4e6ffc99faad48a908d94234ca30fe02bcd505f38f72b8387c17384c7\"",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "1AF0:0A44:32F820:3DB9C0:60BB4218",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.480391,VS0,VE230"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_createFind.js"
+}

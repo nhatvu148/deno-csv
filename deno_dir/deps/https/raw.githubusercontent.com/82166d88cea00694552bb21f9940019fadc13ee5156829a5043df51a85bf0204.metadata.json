@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-timer": "S1622884888.108655,VS0,VE266",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "etag": "W/\"1a17a62fbe830f1f6079705945f5c1bba6c725079c2b912c2fd8b406bf663ca3\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "3C0A:3C94:33BE38:3E8880:60BB4218",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "ae181f4dae3b24b62e3271ee288e0473018440b7",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "via": "1.1 varnish",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/debounce.js"
+}

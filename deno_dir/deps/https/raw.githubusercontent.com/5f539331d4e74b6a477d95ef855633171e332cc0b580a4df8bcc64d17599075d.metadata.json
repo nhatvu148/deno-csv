@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"2e6331cb5856b09bfc6c497916d959f2e2d8a82b1386f38a6cc6213de7cfbe10\"",
+    "x-fastly-request-id": "151e0f7342cd22761a3d6a09244cfd834bf1af87",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "B522:3D94:33EE00:3EB879:60BB4218",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1622884888.401478,VS0,VE227",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_castFunction.js"
+}

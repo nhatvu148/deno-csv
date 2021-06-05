@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1622884888.597995,VS0,VE257",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "0641929d7c83e8b1177b940234bf2f9987b41c97",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "D99E:0AC3:D25A2:10B55A:60BB4217",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "etag": "W/\"0f833ca8b682952de2cd3554e42476d729d49ffed5fcdb770ce057cb230c8b3c\"",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/uniqueId.js"
+}

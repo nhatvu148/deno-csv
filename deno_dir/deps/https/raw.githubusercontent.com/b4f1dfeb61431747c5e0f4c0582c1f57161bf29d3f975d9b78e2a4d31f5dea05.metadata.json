@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "via": "1.1 varnish",
+    "x-fastly-request-id": "695a01fbf7d52dcc7f1ef61ed0bd5385cb0affc6",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "B676:0635:338A04:3E53EB:60BB4218",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"cc8be95dda5db454443316575fba8716d2bc9adb598bd504d9b9d2977fe783f3\"",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-timer": "S1622884889.892453,VS0,VE229",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_getRawTag.js"
+}

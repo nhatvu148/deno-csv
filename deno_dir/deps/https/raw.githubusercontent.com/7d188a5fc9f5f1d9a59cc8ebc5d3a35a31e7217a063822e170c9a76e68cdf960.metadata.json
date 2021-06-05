@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "8118afff987e66b40236426881215b1ebf279bb1",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-timer": "S1622884889.949845,VS0,VE244",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-github-request-id": "BD44:0A44:32F832:3DB9D6:60BB4218",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "etag": "W/\"bf62541a0a91bec5841314444845ec8ae96c53880e5e985dcc14f40b879ca0aa\"",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_copySymbolsIn.js"
+}

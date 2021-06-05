@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "1a15837ce425e329b659bbb47052bc0b8caa6bb2",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"a8926e4059bb809e3ff67b863625588ea6a3f7b0e6cf8c226ad330a8904e4f8b\"",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "x-timer": "S1622884888.182843,VS0,VE235",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "0C22:0635:3389D3:3E53B4:60BB4218",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/times.js"
+}

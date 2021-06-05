@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "8119e535de44be7f96bb748c5b61a66c3a0276b4",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "E30A:0635:3389AE:3E5289:60BB420E",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"55823d44ecc2f26573570394469dbfc96b0b3e27bc81ecc71e84e33ca947f3af\"",
+    "vary": "Authorization,Accept-Encoding",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884888.598278,VS0,VE241",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/keysIn.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"58e79197b813709f9e1e76a657ba0561ec1c4f44240ee137fb7b0cbb7b6345f3\"",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "1C3A:3C93:ECC00:1990A0:60BB4219",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "x-timer": "S1622884889.016720,VS0,VE231",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "5461e033c8dd731caa885b76de1e6953a44a7961"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseAggregator.js"
+}

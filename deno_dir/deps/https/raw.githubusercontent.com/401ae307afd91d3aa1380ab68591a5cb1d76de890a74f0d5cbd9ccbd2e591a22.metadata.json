@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "etag": "W/\"ac0e5e51a8fa2d86a8a2f5b9e9433494d54a6817e9b84d99957da0641e5f4c80\"",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.846964,VS0,VE304",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-github-request-id": "949C:0634:EBA63:197F7D:60BB4218",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "26c2e754372fe31c40fb3e1834062d5333007e84",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_compareAscending.js"
+}

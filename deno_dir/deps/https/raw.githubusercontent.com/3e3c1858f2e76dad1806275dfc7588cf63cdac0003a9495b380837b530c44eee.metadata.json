@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "9EDE:0AC3:D25B4:10B577:60BB4217",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "3425b6450f9947b09b7795420d911677aa79e0a3",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "etag": "W/\"58720abaac70db501c5082e70b116bf030df9a5c506f2fc684623eeff9c6e193\"",
+    "x-timer": "S1622884888.939073,VS0,VE236",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-tyo11943-TYO",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/tap.js"
+}

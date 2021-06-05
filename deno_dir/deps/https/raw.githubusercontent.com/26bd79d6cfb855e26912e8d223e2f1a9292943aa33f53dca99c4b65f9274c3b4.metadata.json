@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "etag": "W/\"a25c3989e078474eea7106e67a45c5776edbb11ed236a33726b7dc2899fec59d\"",
+    "x-github-request-id": "E088:4D24:FC499:1A8995:60BB4217",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "40974f9968cab19cbc85d1f30006aa58e84a5c49",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-timer": "S1622884888.598244,VS0,VE267",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/curryRight.js"
+}

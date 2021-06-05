@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-github-request-id": "CAEE:3C92:34181:E044F:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "etag": "W/\"62b6d9f837ee04025ffd74d688b3e3392a867e50d6666a898f01dc3c855cbed2\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "d9fa6f6b4114223b6550141e0544a6a4ebbf27d9",
+    "x-timer": "S1622884888.598398,VS0,VE255"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/pickBy.js"
+}

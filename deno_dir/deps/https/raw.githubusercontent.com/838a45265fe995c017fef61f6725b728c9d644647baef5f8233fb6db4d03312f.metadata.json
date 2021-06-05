@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"4a22c089159b54b34d2b6d174b26bc4cf3c47da726471c34452a2d1eacd25481\"",
+    "x-github-request-id": "F698:5306:341384:3EDE3B:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "73f87119da2ca469f38333a599aaa3cff75e1190",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.598075,VS0,VE255",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-cache": "MISS",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/sampleSize.js"
+}

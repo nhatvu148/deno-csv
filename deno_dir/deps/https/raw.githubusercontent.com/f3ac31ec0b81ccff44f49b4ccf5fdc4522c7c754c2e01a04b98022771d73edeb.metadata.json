@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "etag": "W/\"e61c0e829952584db3c27474e6d07c8b103ddc120e2949fd5e34a26c56bbc9bb\"",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-cache": "MISS",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-github-request-id": "6662:5306:341396:3EDE57:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-timer": "S1622884888.943861,VS0,VE242",
+    "x-fastly-request-id": "de9d74b09483c09c6ef862dd89a70adf7d230d3d"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isElement.js"
+}

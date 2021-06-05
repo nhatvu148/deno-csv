@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-fastly-request-id": "c3be12d9a2fd978ae0305644a154c1fa3ffa3841",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"185e21e0a4bce72760fc1bf5a81a2bc16cc2111f3c18a9be32713cc1ace0f63d\"",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884888.108050,VS0,VE237",
+    "x-github-request-id": "1EA2:4D25:32866C:3D5094:60BB4218",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/overEvery.js"
+}

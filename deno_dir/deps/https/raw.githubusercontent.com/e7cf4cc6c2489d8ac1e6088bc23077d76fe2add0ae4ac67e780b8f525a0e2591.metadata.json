@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "6426:5305:E63F7:1928FF:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1622884888.938977,VS0,VE241",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "etag": "W/\"7a2717aafcf60b2b7558ae05471a1f544755e7510167a8053fafcd98731b1119\"",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "bdb44ad4b25e71892094b9d7349b3ded77111b88"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/over.js"
+}

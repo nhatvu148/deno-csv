@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1622884889.007511,VS0,VE250",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "cache-control": "max-age=300",
+    "etag": "W/\"c3383c0e0672b0e2d5763d5febff5a26cc1f88ddea67078a9a946b4456eac316\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "130e8b29388eafb1bfccfd0c7f95379690b612f1",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "FC32:0AC3:D25FC:10B5C4:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseMergeDeep.js"
+}

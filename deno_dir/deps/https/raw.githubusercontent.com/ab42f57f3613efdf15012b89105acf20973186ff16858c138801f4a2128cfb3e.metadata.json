@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-timer": "S1622884889.206378,VS0,VE227",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"508eeb953a10747252b2c4182c46de477c045ccf390509a409533f9ebcfa9803\"",
+    "source-age": "0",
+    "x-fastly-request-id": "9f931e4e75fc4c9687b3a389015d2284ece41243",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "1A1A:3D96:E89D8:194F14:60BB4219",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_stackSet.js"
+}

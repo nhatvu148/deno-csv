@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "f78f9a989a778fb5aaaacbda62d7094661c7ef10",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-timer": "S1622884889.121161,VS0,VE235",
+    "etag": "W/\"9a6d6b4ac14539d4757cb8160c19df5a84251380debbd84be09010b6fb619f5d\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "0812:4D24:FC4B2:1A89B3:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_memoizeCapped.js"
+}

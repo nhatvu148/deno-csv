@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "987dadfa27bde81d79e5eec2ef6438955a85fe9b",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "etag": "W/\"bcc0b00a64a6312620c7d20c38fbaa0d3c4edad02cd5fbbb06c21c2a24a4e61a\"",
+    "via": "1.1 varnish",
+    "x-timer": "S1622884888.228989,VS0,VE237",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "4EEA:3C94:33BE3F:3E888B:60BB4218",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/upperFirst.js"
+}

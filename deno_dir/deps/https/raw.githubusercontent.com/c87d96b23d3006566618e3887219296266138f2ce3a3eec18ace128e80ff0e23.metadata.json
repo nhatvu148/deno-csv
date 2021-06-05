@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "F54C:5306:341384:3EDE3D:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1622884888.598318,VS0,VE260",
+    "x-fastly-request-id": "a0d9b663de94013dd0afa0c3af69c5de4f9af6c8",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "x-frame-options": "deny",
+    "etag": "W/\"1c8814bb55ba4d86178acd0b7e75e2a155be851fa36ad0c277a794dc05103b37\"",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isUndefined.js"
+}

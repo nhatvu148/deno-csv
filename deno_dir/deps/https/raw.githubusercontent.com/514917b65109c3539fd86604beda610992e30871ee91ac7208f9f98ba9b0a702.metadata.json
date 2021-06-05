@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.939230,VS0,VE233",
+    "x-cache": "MISS",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "3C12:0A44:32F802:3DB9A1:60BB4217",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "etag": "W/\"6d664b4cec76b7a33125af7315ce5f1a5cbb269789ba2ace7e5ca6f6a02faf0b\"",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-fastly-request-id": "db9250804ea755091b872e97800789e4d5304037",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "vary": "Authorization,Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/forEach.js"
+}

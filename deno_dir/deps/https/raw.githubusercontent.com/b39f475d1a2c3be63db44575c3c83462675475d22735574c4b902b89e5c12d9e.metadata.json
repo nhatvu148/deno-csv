@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS",
+    "etag": "W/\"9a6a35de91b1ecee47dd8294a7fdff56dbadef1f4635287f097ca6a4f3f54026\"",
+    "x-timer": "S1622884888.598165,VS0,VE257",
+    "x-fastly-request-id": "2da5fe26489964125fa67e56e8669b60e59d1923",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "8016:3D94:33EDD4:3EB84D:60BB4217",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/shuffle.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-github-request-id": "692C:4D25:32866A:3D508B:60BB4217",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "a13b1d62eb89ceb7bc8447406172d419b74dff9f",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "etag": "W/\"97126ed2c50ce5ce50f321ca429342f44548189c0d237690c22c5af8a6818e18\"",
+    "x-timer": "S1622884888.939000,VS0,VE233"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isString.js"
+}

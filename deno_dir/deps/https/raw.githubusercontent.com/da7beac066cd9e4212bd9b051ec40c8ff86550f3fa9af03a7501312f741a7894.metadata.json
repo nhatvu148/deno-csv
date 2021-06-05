@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884888.597735,VS0,VE245",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "1461b09d207ecc87af4b639baed87a37ce273c2f",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"e8171f58ef620b83ea5dad40ba116e1e4238c19fad83490e27c2af06b3aa64ca\"",
+    "x-github-request-id": "B522:3D94:33EDD4:3EB846:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/fill.js"
+}

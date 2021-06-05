@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "etag": "W/\"dbbb1990f5c1edb5f29fe220b55063b1300dd1985966dd1f2ed9b971af50c327\"",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-github-request-id": "F316:3C92:34181:E044D:60BB4217",
+    "x-cache": "MISS",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "0b458dc79cf077e5f5d3b13edd54c61ce67d73eb",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884888.597867,VS0,VE244",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/nthArg.js"
+}

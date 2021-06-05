@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "6448902fdd48d39608e98137698c31f290a09498",
+    "x-timer": "S1622884888.124451,VS0,VE258",
+    "x-frame-options": "deny",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"8768db32d70e91d707ef0adbb35034c7110d9d9ef0253666e6c028d6b181b60c\"",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "58C4:0A40:EE202:199E28:60BB4218",
+    "via": "1.1 varnish",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/divide.js"
+}

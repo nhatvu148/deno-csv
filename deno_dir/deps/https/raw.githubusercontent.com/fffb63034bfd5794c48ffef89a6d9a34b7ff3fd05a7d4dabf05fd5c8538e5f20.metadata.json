@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "aa3ced17a19906a58ce555fe7df39072bf6fa88f",
+    "cache-control": "max-age=300",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "x-served-by": "cache-tyo11943-TYO",
+    "via": "1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "etag": "W/\"a327b970063cd0620606c6cc0e576e3e4638b518bd605e6e0ac85056700257ec\"",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-github-request-id": "4284:3C93:ECBDD:199078:60BB4217",
+    "x-timer": "S1622884888.597546,VS0,VE274"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/mixin.js"
+}

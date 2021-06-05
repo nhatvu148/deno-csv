@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "af497bdcab4b4dec70ec06f7ff79fcd77239bd37",
+    "x-cache": "MISS",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "via": "1.1 varnish",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-cache-hits": "0",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "1AF0:0A44:32F802:3DB99A:60BB4217",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1622884888.870703,VS0,VE233",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "etag": "W/\"3aea663cefb3fb26173509c86a34b8bb2e49b8585627a76b92058c1396696e53\"",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/overArgs.js"
+}

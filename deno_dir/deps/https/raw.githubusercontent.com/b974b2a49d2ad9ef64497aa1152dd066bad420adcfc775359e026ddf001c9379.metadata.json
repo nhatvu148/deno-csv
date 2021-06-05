@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-github-request-id": "767C:5306:341384:3EDE3E:60BB4217",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "bf840cfe4aed5ea827385f402f709f5fe371b540",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"2385993e50dbf4ecda591f632edcb748a6ab1cdff8cbeeb90542f73ef3e4e47a\"",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS",
+    "x-timer": "S1622884888.598446,VS0,VE267",
+    "vary": "Authorization,Accept-Encoding",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0",
+    "source-age": "0",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/flattenDeep.js"
+}

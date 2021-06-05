@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "58dd4a0ee79a082874e1dd65bb110a3fc1f09527",
+    "x-cache": "MISS",
+    "accept-ranges": "bytes",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "DB9A:4D25:328684:3D50A8:60BB4218",
+    "x-timer": "S1622884888.478669,VS0,VE243",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "etag": "W/\"51c46984fa8d5adf90687b66baa4ea9996c7b24c10af8eb79b1537e2afb4b3f7\"",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseAssignValue.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.625610,VS0,VE337",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "1738169746da8620cc3394f8e767ddcd0d917d85",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-github-request-id": "BC42:0635:3389F6:3E53D5:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "etag": "W/\"5d43fc16326c3648707e6012d6eb7f07b36e567ad4e2cbe92231b9c726f233d5\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseKeys.js"
+}

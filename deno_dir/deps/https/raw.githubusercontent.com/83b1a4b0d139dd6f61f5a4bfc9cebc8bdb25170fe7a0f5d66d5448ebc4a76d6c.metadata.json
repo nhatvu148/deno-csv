@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish",
+    "vary": "Authorization,Accept-Encoding",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "9ABC:0634:EBA63:197F79:60BB4218",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1622884889.775311,VS0,VE248",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "692cd307130e77687f6f6e404f2f0265d9210d95",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"bf95be82b0a8d9dcf273019bdaf5e332d629d64d4081a78c719835748940954f\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseMatches.js"
+}

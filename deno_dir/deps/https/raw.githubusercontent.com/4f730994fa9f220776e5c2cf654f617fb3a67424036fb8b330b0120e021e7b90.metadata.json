@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-fastly-request-id": "a1ecd78f5eb538ac59b9a162aa511a761ce02de3",
+    "etag": "W/\"75c1df9d9e543cae82e0f359c7e2b3ad946d70b223c01c417218005f2d163283\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.124492,VS0,VE237",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-github-request-id": "43E0:3C93:ECBE5:199086:60BB4218",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/isNumber.js"
+}

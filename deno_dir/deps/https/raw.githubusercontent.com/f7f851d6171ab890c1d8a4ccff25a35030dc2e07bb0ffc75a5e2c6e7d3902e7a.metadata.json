@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-timer": "S1622884889.124036,VS0,VE249",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"66b50316d4b2dfec5fb4fad493c7545eceabf332ff77ae1f8b7abf96a2d722e7\"",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0",
+    "x-fastly-request-id": "d80e311a6781ed83a3ff378c2a1dc2f59285a2f5",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "9EDE:0AC3:D2601:10B5C8:60BB4219",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_coreJsData.js"
+}

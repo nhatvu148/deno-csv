@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"4968b37089d4cb9710467bf9f9e06b8fd503dce3ef4bebff3c43f38cd9a96fb5\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "D346:0A44:32F830:3DB9D2:60BB4218",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0",
+    "x-cache": "MISS",
+    "x-timer": "S1622884889.878453,VS0,VE245",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "a2b9607e97af4a15ffd976c1f71f2bb5ab72d82b"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_baseRepeat.js"
+}

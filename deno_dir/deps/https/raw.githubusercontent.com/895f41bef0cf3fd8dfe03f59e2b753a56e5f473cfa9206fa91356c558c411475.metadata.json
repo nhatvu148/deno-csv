@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-served-by": "cache-tyo11943-TYO",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "etag": "W/\"52f7bf262e047400e0d2e92e5793767dfcd1dfaacb2541161cf0085525044474\"",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding",
+    "x-timer": "S1622884888.124487,VS0,VE251",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "58C6:3C93:ECBE5:199088:60BB4218",
+    "x-fastly-request-id": "3b039333444e3b9e49a2a2396675e1e8c068ddcb",
+    "x-cache": "MISS",
+    "via": "1.1 varnish",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/toSafeInteger.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"8277847f028e92bd284e7bcf74cd8e0db8ec783b359a9d7a0f5187ff4607ffbc\"",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884889.871502,VS0,VE247",
+    "x-cache-hits": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-github-request-id": "9F22:4D25:328694:3D50B9:60BB4218",
+    "x-fastly-request-id": "3ead8f037ec1442becac7e5cdfc84a548b9787d3",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_isKey.js"
+}

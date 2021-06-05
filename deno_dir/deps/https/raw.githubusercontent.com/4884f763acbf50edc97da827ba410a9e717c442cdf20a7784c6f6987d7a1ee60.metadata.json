@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:30 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "expires": "Sat, 05 Jun 2021 09:26:30 GMT",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-fastly-request-id": "aee724fb1837115b013d05cd88e6bf56a98680ad",
+    "cache-control": "max-age=300",
+    "etag": "W/\"2a705e9f50508bbc530891d9daeb07b285195c960f0118d31280ef2931a391f2\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-timer": "S1622884890.815132,VS0,VE240",
+    "x-github-request-id": "FB12:4D25:3286B2:3D50D7:60BB4219",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_nativeCreate.js"
+}

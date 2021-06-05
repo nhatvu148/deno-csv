@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "FB12:4D25:3286A0:3D50C8:60BB4219",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish",
+    "etag": "W/\"5ff6a17d89742009d26ba7db607ef8f7a73ab510e1ff8b59e7090128392ce4ed\"",
+    "x-frame-options": "deny",
+    "x-cache": "MISS",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "f9be470a4830024e5f320660530cd2f7f15b4456",
+    "x-served-by": "cache-tyo11943-TYO",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1622884889.169827,VS0,VE240",
+    "x-cache-hits": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_cloneSymbol.js"
+}

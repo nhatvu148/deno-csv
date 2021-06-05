@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "x-fastly-request-id": "7a3081048834788c44ff2e2465f014c09314f405",
+    "x-frame-options": "deny",
+    "x-timer": "S1622884889.442022,VS0,VE231",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "source-age": "0",
+    "etag": "W/\"8268a6acd1a93fa5aa3f1ae4aeab2841e7c82ffc65dfb0c221f2f94cfe5335bb\"",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "7082:3C93:ECC0A:1990AC:60BB4219",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_listCacheDelete.js"
+}

@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1622884888.124466,VS0,VE263",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "e654c098d3efc254ef324d7f104452ef8eb7d0e8",
+    "x-frame-options": "deny",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "source-age": "0",
+    "etag": "W/\"d86835ddb4634a4482416ff0cce2dbd7d65853947b5840474de3a6f9259c63e9\"",
+    "x-github-request-id": "163C:4D25:32866E:3D5099:60BB4218",
+    "x-cache-hits": "0",
+    "via": "1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/findIndex.js"
+}

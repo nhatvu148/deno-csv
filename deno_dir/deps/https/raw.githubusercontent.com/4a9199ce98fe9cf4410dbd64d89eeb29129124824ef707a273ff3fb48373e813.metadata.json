@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "source-age": "0",
+    "x-fastly-request-id": "101d8ec2cfaed36e2139cf27df809bab42122825",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"248f0a8073d36a0c4ccb62866a564b57a31a6edc36ef4139541093f2728badbe\"",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884889.169787,VS0,VE236",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-github-request-id": "BCDA:4D25:3286A0:3D50C9:60BB4219",
+    "via": "1.1 varnish",
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_cloneTypedArray.js"
+}

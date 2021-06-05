@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "25c4e5ec0bfa3dae18fb8b7004466887fc259ea4",
+    "etag": "W/\"0fcd4c9fb1d994818b246c7489bd455f6225fcdc33b56b6e94a4f88861690c7e\"",
+    "x-served-by": "cache-tyo11943-TYO",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-github-request-id": "216A:3C94:33BE32:3E887B:60BB4217",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "x-timer": "S1622884888.939201,VS0,VE241",
+    "vary": "Authorization,Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/invert.js"
+}

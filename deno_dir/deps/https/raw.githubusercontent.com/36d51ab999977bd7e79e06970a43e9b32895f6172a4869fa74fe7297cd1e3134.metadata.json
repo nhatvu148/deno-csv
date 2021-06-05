@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding",
+    "etag": "W/\"8e026f85ce6cdf1e21261cf7817ef3f4b9052693535a0a014524af9d591e464e\"",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "1FAA:3D94:33EDD4:3EB849:60BB4217",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-timer": "S1622884888.598022,VS0,VE260",
+    "x-fastly-request-id": "d486f67f9308ae3ceeb7a8c6af95d5a107a46067",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/merge.js"
+}

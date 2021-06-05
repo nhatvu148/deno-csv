@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"7619c6ed64829be660f57b2e67ef4201df2c949f370b17372c430ac23c2dee81\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "x-timer": "S1622884888.178118,VS0,VE235",
+    "source-age": "0",
+    "x-cache": "MISS",
+    "x-cache-hits": "0",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-github-request-id": "2E3E:0635:3389D2:3E53B3:60BB4218",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "x-fastly-request-id": "5208a18965f30a404f7b02e4a863ea5a87d55aa6",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/commit.js"
+}

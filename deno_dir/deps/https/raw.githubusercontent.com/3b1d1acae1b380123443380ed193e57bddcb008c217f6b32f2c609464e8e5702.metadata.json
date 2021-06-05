@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884889.206462,VS0,VE229",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "4802c3ce68d2b09b0a8e92e830a76321af6473d9",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"ada0870ed701af06519cf673b52a600c5ecbf28aafd2a26091b58e37a173eca2\"",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish",
+    "x-frame-options": "deny",
+    "x-github-request-id": "30EA:5306:3413D9:3EDE9C:60BB4219"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_ListCache.js"
+}

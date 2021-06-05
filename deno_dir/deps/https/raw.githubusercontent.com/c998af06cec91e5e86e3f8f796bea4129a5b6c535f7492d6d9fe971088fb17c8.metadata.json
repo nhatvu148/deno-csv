@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"302f927ac78d3890876c999475a4649a1f07a0fc07c6789f74793f18040efb38\"",
+    "x-cache-hits": "0",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-fastly-request-id": "036e51ed22de4897881a29939baf6c6953706500",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-tyo11943-TYO",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "via": "1.1 varnish",
+    "cache-control": "max-age=300",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1622884888.598184,VS0,VE251",
+    "x-github-request-id": "3EE8:0A44:32F7F3:3DB992:60BB4217",
+    "x-cache": "MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/lte.js"
+}

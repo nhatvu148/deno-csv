@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-timer": "S1622884889.770080,VS0,VE279",
+    "x-github-request-id": "1FEA:3C94:33BE56:3E88A3:60BB4218",
+    "via": "1.1 varnish",
+    "date": "Sat, 05 Jun 2021 09:21:29 GMT",
+    "x-served-by": "cache-tyo11943-TYO",
+    "vary": "Authorization,Accept-Encoding",
+    "x-fastly-request-id": "5b2a87a9bfac9ead86bb51e45408347cf928b928",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"57e7030570ae0872df0d53d29494239aadf3216b1fd7ad4d5a1a50d616aaa272\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "expires": "Sat, 05 Jun 2021 09:26:29 GMT",
+    "x-cache": "MISS",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/_mapToArray.js"
+}

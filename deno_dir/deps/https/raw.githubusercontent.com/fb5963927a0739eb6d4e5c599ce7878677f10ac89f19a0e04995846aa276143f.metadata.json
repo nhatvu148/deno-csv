@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "x-cache-hits": "0",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sat, 05 Jun 2021 09:26:28 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"19ed88cfd5dbc9aea1571f01bd7cab411042f8288fa271665e6559b8de35deee\"",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "via": "1.1 varnish",
+    "accept-ranges": "bytes",
+    "x-timer": "S1622884888.870773,VS0,VE249",
+    "x-fastly-request-id": "2570dc245af4fc20d9abefb1e5bf5328ef9f1a1d",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-tyo11943-TYO",
+    "x-cache": "MISS",
+    "x-github-request-id": "8284:0AC3:D25B0:10B570:60BB4217",
+    "date": "Sat, 05 Jun 2021 09:21:28 GMT",
+    "vary": "Authorization,Accept-Encoding",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/nth.js"
+}

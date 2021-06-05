@@ -1,0 +1,26 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding",
+    "via": "1.1 varnish",
+    "x-cache": "MISS",
+    "x-github-request-id": "4EEA:3C94:33BE2A:3E8870:60BB4217",
+    "x-served-by": "cache-tyo11943-TYO",
+    "etag": "W/\"e3a6230b114fe6a8056adbb11ee6d1b5b90d10ebe7d477fdcfb799cb64bf8ccf\"",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "c57e4430b0545d0f3a812768402ce8a8aa0af597",
+    "access-control-allow-origin": "*",
+    "date": "Sat, 05 Jun 2021 09:21:27 GMT",
+    "x-cache-hits": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sat, 05 Jun 2021 09:26:27 GMT",
+    "source-age": "0",
+    "x-timer": "S1622884888.597673,VS0,VE244"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/4.17.21-es/after.js"
+}
