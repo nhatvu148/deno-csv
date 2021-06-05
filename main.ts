@@ -11,10 +11,18 @@
 //   console.log(`Pushing... file #${fileCount}`);
 // }
 
+import * as log from "https://deno.land/std/log/mod.ts";
+
 const downloadLaunchData = async () => {
+  log.info("Downloading launch data...");
   const response = await fetch("https://api.spacexdata.com/v3/launches", {
     method: "GET",
   });
+
+  if (!response.ok) {
+    log.warning("Problem downloading launch data");
+    throw new Error("Launch data download failed");
+  }
 
   const launchData = await response.json();
   console.log(launchData);
