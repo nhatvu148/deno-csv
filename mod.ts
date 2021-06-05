@@ -1,5 +1,10 @@
+import { join } from "https://deno.land/std/path/mod.ts";
+
 const readFile = async () => {
-  const data = await Deno.readTextFile("hello.txt");
+  const path = join("text_files", "hello.txt");
+
+  const data = await Deno.readTextFile(path);
+  
   console.log(data);
 };
 
