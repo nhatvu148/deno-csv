@@ -2,6 +2,10 @@ import { join } from "https://deno.land/std/path/mod.ts";
 import { BufReader } from "https://deno.land/std/io/bufio.ts";
 import { parse } from "https://deno.land/std/encoding/csv.ts";
 
+interface Planet {
+  [key: string]: string;
+}
+
 const readFile = async () => {
   const path = join("text_files", "hello.txt");
 
@@ -9,6 +13,7 @@ const readFile = async () => {
 
   console.log(data);
 };
+// await readFile();
 
 const loadPlanetData = async () => {
   const path = join(".", "kepler_exoplanets_nasa.csv");
@@ -21,7 +26,18 @@ const loadPlanetData = async () => {
   });
   Deno.close(file.rid);
 
-  console.log(result);
+  const planets = (result as Planet[]).filter((planet) => {
+    const planetaryRadius = Number(planet["koi_prad"]);
+    const stellarMass = Number(planet["koi_smass"]);
+    const stellarRadius = Number(planet["koi_srad"]);
+
+    return planet["koi_disposition"] === "CONFIRMED" && planetaryRadius > 0.5 &&
+      planetaryRadius < 1.5 && stellarMass > 0.78 && stellarMass < 1.04 &&
+      stellarRadius > 0.99 && stellarRadius < 1.01;
+  });
+
+  return planets;
 };
 
-await loadPlanetData();
+const newEarths = await loadPlanetData();
+console.log(`${newEarths.length} habitable planets found!`);
